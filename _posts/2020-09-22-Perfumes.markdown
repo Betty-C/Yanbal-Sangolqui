@@ -8,6 +8,7 @@ tag: [Perfumes]
 ---
 ### ZENTRO  
 #### COLOGNE FOR MEN
+
 75 ml | yanbal   
 Precio: $  | Stock: 1
 
@@ -15,52 +16,66 @@ Precio: $  | Stock: 1
 * * *
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN
-75 ml 
-Stock: 1
+
+75 ml | yanbal
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/zentro2.jpg)
 * * *
 ### OHM  
 #### BLACK
-100 ml 
-Stock: 1
+
+100 ml | yanbal
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/ohm1.jpg)
 * * *
 ### UNIQUE WOMEN 
 #### EAU DE PARFUM
-50 ml 
-Stock: 1
+
+50 ml | yanbal
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/women2.jpg)
 * * *
 ### UNIQUE WOMEN INFINITY
 #### EAU DE PARFUM
-50 ml 
-Stock: 1
+
+50 ml |yanbal 
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/women1.jpg)
 * * *
 ### DULCE VANIDAD
 #### EAU DE PARFUM
-50 ml 
-Stock: 1
+
+50 ml | yanbal
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/vanidad1.jpg)
 * * *
 ### xiss
 #### EAU DE TOILTTE
-110 ml 
-Stock: 1
+
+110 ml | yanbal
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/xiss1.jpg)
 * * *
 ### ILUMINAS
 #### EAU DE PARFUM
-50 ml 
-Stock: 1
-ésika
+
+50 ml | ésika
+Precio: $|Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/iluminas1.jpg)
 * * *
 ### SECRET MUSK
 #### EAU DE PARFUM/ COLONIA 
-30 ml 
-Stock: 1
-ésika
+
+30 ml | ésika
+Precio: $ |Stock: 1
+
 ![perfumes]({{ site.baseurl }}/assets/img/musk1.jpg)
 
 
