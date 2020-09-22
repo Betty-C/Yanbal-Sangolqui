@@ -8,7 +8,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 ---
 Veamos si cambia la imagen o debemos cargarla como link
 $3
-![Cantidad 2](assets/img/desodorantes1.jpg)
+![Cantidad 2](/assets/img/desodorantes1.jpg)
 
 $5
 
