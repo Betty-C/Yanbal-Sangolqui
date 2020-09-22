@@ -8,8 +8,8 @@ tag: [Perfumes]
 ---
 ### ZENTRO  
 #### COLOGNE FOR MEN
-#####75 ml 
-######Stock: 1
+75 ml 
+Stock: 1
 ![perfumes]({{ site.baseurl }}/assets/img/zentro1.jpg)
 * * *
 
