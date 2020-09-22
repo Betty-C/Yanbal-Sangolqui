@@ -7,6 +7,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
 Veamos si cambia la imagen o debemos cargarla como link
+
 $3
 ![Cantidad 2](/assets/img/desodorantes1.jpg)
 
