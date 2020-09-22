@@ -17,7 +17,9 @@ $5
 
 | Cabecera A | Cabecera B |
 | ---------- | ---------- |
-| ![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg) | Campo B0    CAmpo B0    Campo Bo   |
+| ![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg) | Campo B0  
+
+CAmpo B0    Campo Bo   |
 | Campo A1   | Campo B1   |
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
