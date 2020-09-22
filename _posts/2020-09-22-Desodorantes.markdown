@@ -9,7 +9,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 Veamos si cambia la imagen o debemos cargarla como linkokkk
 
 $3
-![Cantidad 2]({{ site.baseurl }}/assets/img/desodorantes1.jpg = 50 x 50)
+![Cantidad 2]({{ site.baseurl }}/assets/img/women1.jpg)
 
 $5
 
