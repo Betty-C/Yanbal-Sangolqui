@@ -15,7 +15,7 @@ a
 
 $5
 <
-
+* * *
 | Cabecera A | Cabecera B |
 | ---------- | ---------- |
 | ![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg) | Campo B0  
