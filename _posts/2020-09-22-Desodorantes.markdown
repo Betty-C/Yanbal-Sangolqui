@@ -14,7 +14,7 @@ a
 ![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg)
 
 $5
-<center>![R Users Group - Ecuador]({{ site.baseurl }}/assets/img/women1.jpg)</center>
+<
 
 | Cabecera A | Cabecera B |
 | ---------- | ---------- |
