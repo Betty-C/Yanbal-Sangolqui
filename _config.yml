@@ -9,7 +9,7 @@ baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: yanbal.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
@@ -17,8 +17,8 @@ banner-desc: # add banner description
 author-pic: face.jpg # your photo
 author-name: # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
+email: aqui va el mail # your email
+phone: (593) # your pnone number
 website: https://dwayne.example.com # you website
 
 # Social link
