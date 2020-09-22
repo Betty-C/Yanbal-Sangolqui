@@ -22,7 +22,7 @@ Stock: 1
 #### BLACK
 100 ml 
 Stock: 1
-![perfumes]({{ site.baseurl }}/assets/img/omh1.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/ohm1.jpg)
 * * *
 ### UNIQUE WOMEN 
 #### EAU DE PARFUM
