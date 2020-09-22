@@ -10,6 +10,7 @@ tag: [Perfumes]
 #### COLOGNE FOR MEN
 
 75 ml | yanbal   
+
 Precio: $  | Stock: 1
 
 ![perfumes]({{ site.baseurl }}/assets/img/zentro1.jpg)
@@ -18,6 +19,7 @@ Precio: $  | Stock: 1
 #### COLOGNE FOR MEN
 
 75 ml | yanbal
+
 Precio: $|Stock: 1
 
 ![perfumes]({{ site.baseurl }}/assets/img/zentro2.jpg)
