@@ -7,6 +7,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
 $3
+![Texto alternativo](desodorantes1.jpg)
 
 $5
 
