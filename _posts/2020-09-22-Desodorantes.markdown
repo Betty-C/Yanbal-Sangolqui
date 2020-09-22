@@ -6,7 +6,7 @@ date: 2020-09-22 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
-Veamos si cambia la imagen o debemos cargarla como linkokkk
+Veamos si cambia la imagen o debemos cargarla como linkoakkk
 
 $3
 ![Cantidad 2]({{ site.baseurl }}/assets/img/women1.jpg)
