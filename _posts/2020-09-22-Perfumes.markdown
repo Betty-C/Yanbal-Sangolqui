@@ -42,15 +42,22 @@ Stock: 1
 Stock: 1
 ![perfumes]({{ site.baseurl }}/assets/img/vanidad1.jpg)
 * * *
+### xiss
+#### EAU DE TOILTTE
+110 ml 
+Stock: 1
+![perfumes]({{ site.baseurl }}/assets/img/xiss1.jpg)
+* * *
 ### ILUMINAS
-#### EAU DE PARFUM/PERFUME
+#### EAU DE PARFUM
 50 ml 
 Stock: 1
+ésika
 ![perfumes]({{ site.baseurl }}/assets/img/iluminas1.jpg)
 * * *
-### UNIQUE WOMEN INFINITY
-#### EAU DE PARFUM 
-50 ml 
+### SECRET MUSK
+#### EAU DE PARFUM/ COLONIA 
+30 ml 
 Stock: 1
 ésika
 ![perfumes]({{ site.baseurl }}/assets/img/musk1.jpg)
