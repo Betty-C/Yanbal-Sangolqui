@@ -9,17 +9,16 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRASPIRANTE
-|50 g | yanbal|
-
-|Precio: $|Stock: 1|
+|50 g         | yanbal  |
+|-----        |-------  |
+|Precio: $    |Stock: 1 |
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
 * * *
 ### OHM BLACK  
 #### DESODORANTE ANTITRASPIRANTE
-|50 g | yanbal|
-
-|Precio: $|Stock: 1|
+|50 g       | yanbal  |
+|Precio: $  |Stock: 1 |
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
 * * *
