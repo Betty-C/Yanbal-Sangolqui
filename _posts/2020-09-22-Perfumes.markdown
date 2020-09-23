@@ -7,72 +7,56 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Perfumes]
 ---
 ### ZENTRO  
-#### COLOGNE FOR MEN
-| 75 ml       | yanbal    |
-
+#### COLOGNE FOR MEN  | 75 ml | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentro.jpg)
 * * *
 ### ZENTRO BLACK  
-#### COLOGNE FOR MEN
-|75 ml        | yanbal    |
+#### COLOGNE FOR MEN  | 75 ml | yanbal  |
 |Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-black.jpg)
 * * *
 ### OHM  
-#### BLACK
-100 ml | yanbal
-Precio: $|Stock: 1
+#### BLACK  | 100 ml | yanbal |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-ohm.jpg)
 * * *
 ### UNIQUE WOMEN 
-#### EAU DE PARFUM
-
-50 ml | yanbal
-Precio: $|Stock: 1
+#### EAU DE PARFUM |  50 ml | yanbal  |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-women.jpg)
 * * *
 ### UNIQUE WOMEN INFINITY
-#### EAU DE PARFUM
-
-50 ml |yanbal 
-Precio: $|Stock: 1
+#### EAU DE PARFUM  | 50 ml | yanbal  | 
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-infinity.jpg)
 * * *
 ### DULCE VANIDAD
-#### EAU DE PARFUM
-
-50 ml | yanbal
-Precio: $|Stock: 1
+#### EAU DE PARFUM  | 50 ml | yanbal  |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-vanidad.jpg)
 * * *
 ### xiss
-#### EAU DE TOILTTE
-
-110 ml | yanbal
-Precio: $|Stock: 1
+#### EAU DE TOILTTE | 110 ml | yanbal |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-xiss.jpg)
 * * *
 ### ILUMINAS
-#### EAU DE PARFUM
-
-50 ml | ésika
-Precio: $|Stock: 1
+#### EAU DE PARFUM  | 50 ml | ésika |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-iluminas.jpg)
 * * *
 ### SECRET MUSK
-#### EAU DE PARFUM/ COLONIA 
-
-30 ml | ésika
-Precio: $ |Stock: 1
+#### EAU DE PARFUM/ COLONIA   | 30 ml | ésika |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-musk.jpg)
 
