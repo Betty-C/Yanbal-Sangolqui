@@ -13,9 +13,8 @@ tag: [Perfumes]
 | Header      | Title       |
 | Paragraph   | Text        |
 
-75 ml | yanbal   
-
-Precio: $  | Stock: 1
+|75 ml | yanbal   |
+|Precio: $  | Stock: 1|
 
 ![perfumes]({{ site.baseurl }}/assets/img/zentro1.jpg)
 * * *
