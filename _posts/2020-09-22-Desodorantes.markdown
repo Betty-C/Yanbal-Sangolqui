@@ -24,9 +24,14 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 * * *
 ### AROM ABSOLUTE 
 #### DESODORANTE ANTITRASPIRANTE
-|50 g | yanbal|
+| Elemento | Cantidad | Precio |
+| :------- | :------: | -----: |
+| Item 1   | 15       | 150€   |
+| Item 2   | 3250     | 23,65€ |
 
-|Precio: $|Stock: 1|
+|50 g         | yanbal  |
+
+|Precio: $    |Stock: 1 |
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
 * * *
