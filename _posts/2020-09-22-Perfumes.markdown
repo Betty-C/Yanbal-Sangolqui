@@ -16,7 +16,7 @@ tag: [Perfumes]
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
 |Precio: $    | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/per-black.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/per-zentroblack.jpg)
 * * *
 ### OHM  
 #### BLACK  | 100 ml | yanbal |
@@ -28,7 +28,7 @@ tag: [Perfumes]
 #### EAU DE PARFUM |  50 ml | yanbal  |
 |Precio: $    | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/per-women.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/per-woman.jpg)
 * * *
 ### UNIQUE WOMEN INFINITY
 #### EAU DE PARFUM  | 50 ml | yanbal  | 
