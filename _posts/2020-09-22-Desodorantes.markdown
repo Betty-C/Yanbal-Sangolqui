@@ -6,30 +6,67 @@ date: 2020-09-22 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
-Veamos si cambia la imagen o debemos cargarla como linkoakkk
-
-$3
-aA
-a
-![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg)
-
-$5
-<
 * * *
-a
-***
-s
----
-d
-___
-f
-| Cabecera A | Cabecera B |
-| ---------- | ---------- |
-| ![Cantidad 2 ad]({{ site.baseurl }}/assets/img/women1.jpg) | Campo B0  
+### GAIA  
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
 
-CAmpo B0    Campo Bo   |
-| Campo A1   | Campo B1   |
+|Precio: $|Stock: 1|
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
+* * *
+### OHM BLACK  
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
+* * *
+### AROM ABSOLUTE 
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
+* * *
+### ZENTRO
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-zentro.jpg)
+* * *
+### ORIGINAL
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
+* * *
+### ACLARANTE 
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
+* * *
+### SIN AROMA 
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
+* * *
+### BRISA FLORAL
+#### DESODORANTE ANTITRASPIRANTE
+|50 g | yanbal|
+
+|Precio: $|Stock: 1|
+
+![perfumes]({{ site.baseurl }}/assets/img/des-brisa.jpg)
