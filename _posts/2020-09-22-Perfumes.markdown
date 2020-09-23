@@ -8,23 +8,14 @@ tag: [Perfumes]
 ---
 ### ZENTRO  
 #### COLOGNE FOR MEN
-| Syntax      | Description |
-
-| ----------- | ----------- |
-
-| Header      | Title       |
-| Paragraph   | Text        |
-
-|75 ml | yanbal   |
-|Precio: $  | Stock: 1|
-
+| 75 ml       | yanbal    |
+| Precio: $   | Stock: 1  |
 ![perfumes]({{ site.baseurl }}/assets/img/zentro1.jpg)
 * * *
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN
-75 ml | yanbal
-
-Precio: $|Stock: 1
+|75 ml        | yanbal    |
+|Precio: $    | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/zentro2.jpg)
 * * *
