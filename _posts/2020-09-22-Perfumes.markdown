@@ -62,7 +62,7 @@ Precio: $|Stock: 1
 110 ml | yanbal
 Precio: $|Stock: 1
 
-![perfumes]({{ site.baseurl }}/assets/img/xiss1.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/xiss.jpg)
 * * *
 ### ILUMINAS
 #### EAU DE PARFUM
