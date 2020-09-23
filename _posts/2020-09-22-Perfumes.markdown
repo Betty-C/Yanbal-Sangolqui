@@ -42,7 +42,7 @@ tag: [Perfumes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-vanidad.jpg)
 * * *
-### xiss
+### XISS
 #### EAU DE TOILTTE | 110 ml | yanbal |
 |Precio: $    | Stock: 1  |
 
