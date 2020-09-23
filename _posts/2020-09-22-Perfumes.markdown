@@ -17,7 +17,6 @@ Precio: $  | Stock: 1
 * * *
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN
-
 75 ml | yanbal
 
 Precio: $|Stock: 1
@@ -26,7 +25,6 @@ Precio: $|Stock: 1
 * * *
 ### OHM  
 #### BLACK
-
 100 ml | yanbal
 Precio: $|Stock: 1
 
