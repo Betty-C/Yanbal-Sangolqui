@@ -9,7 +9,9 @@ tag: [Perfumes]
 ### ZENTRO  
 #### COLOGNE FOR MEN
 | Syntax      | Description |
+
 | ----------- | ----------- |
+
 | Header      | Title       |
 | Paragraph   | Text        |
 
