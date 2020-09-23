@@ -8,6 +8,10 @@ tag: [Perfumes]
 ---
 ### ZENTRO  
 #### COLOGNE FOR MEN
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 75 ml | yanbal   
 
