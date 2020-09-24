@@ -6,9 +6,11 @@ date: 2017-07-11 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [yanbal]
 ---
-### PROTECTOR SOLAR EN CREMA CON COLOR
-#### SPF 100 | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+Revise el catálogo completo de yanbala continuación:
+
+[logo]: ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
+[yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
+[![logo de yanbal][logo]][yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>)
 
