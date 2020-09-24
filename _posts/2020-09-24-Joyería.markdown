@@ -21,7 +21,7 @@ tag: [TArgollas]
 * * *
 
 ### ARETES
-#### CEREZASMETAL BAÑADO EN ORO  | yanbal  |
+#### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $ 13,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
@@ -29,7 +29,7 @@ tag: [TArgollas]
 
 ### ARETES 
 #### LEONORA ROSE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 20,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-4.jpg)
 * * *
@@ -57,7 +57,7 @@ tag: [TArgollas]
 
 ### ARETES
 #### DIAMANTI STAR METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  15,00 | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-8.jpg)
 * * *
