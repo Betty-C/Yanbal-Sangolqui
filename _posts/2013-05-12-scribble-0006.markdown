@@ -1,31 +1,11 @@
 ---
 layout: post
-title: "해 뜰 녘"
-img: IMG_7465.png # Add image post (optional)
-date: 2013-05-12
+title: "MAQUILLLAJE"
+img: portada-maquillaje.jpg # Add image post (optional)
+date: 2020-09-24
 description: # Add post description (optional)
-tag: [해 뜰 녘, 끄적거림, scribbles]
+tag: [Rimel,Labial,Sombras]
 sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 해 뜰 녘
-<br/><br/><br/>
-
-뜨문뜨문 소쩍소에 힐꾸름이 가로보니<br/>
-안개 물리듯 소리 한 번 없더니<br/>
-어느새 오른 귀퉁이가 바뀐 샐녘이더라.
-
-분명 해거름에 왼 귀퉁이만 남았을 때 보았거늘.<br/>
-어느새 자기들끼리만 자리 바꾸기를 하였구나.
-
-일찌거니 귀띔도 하지 아니하고<br/>
-느직하게도 온갖 새들 소리로 알려 주기는.<br/>
-하기야 그깟 귀띔도 듣지 않았을 게야.
-
-언뜻 자고 일어나야 할 바람에<br/>
-부스럭부스럭 자리를 파고 들어가려는구나.
-<br/><br/><br/>
-
-
-이천십삼년오월의 어느날
