@@ -10,6 +10,10 @@ tag: [yanbal]
 #### SPF 100 | 80 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>)
 
 <a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>
+
+![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)("http://www.lostejos.com")
+
+![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(http://www.lostejos.com)
