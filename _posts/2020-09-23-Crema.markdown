@@ -8,25 +8,25 @@ tag: [Cremas, Yanbal]
 ---
 ### UÑA DE GATO
 #### CREMA DE MANOS  | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 8,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-gato.jpg)
 * * *
 ### CCORI
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  7,00 | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-ccori.jpg)
 * * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  10,00 | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
 * * *
 ### GAIA
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 7,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
 * * *
