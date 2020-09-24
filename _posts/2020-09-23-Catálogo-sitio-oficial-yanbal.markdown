@@ -17,3 +17,7 @@ tag: [yanbal]
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)("http://www.lostejos.com")
 
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(http://www.lostejos.com)
+
+[![logo de google][logo]][google]
+[logo]: http://www.google.com/images/logo.gif
+[google]: http://www.google.com/ "clic para visitar Google.com"
