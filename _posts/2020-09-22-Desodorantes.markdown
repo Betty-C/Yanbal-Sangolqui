@@ -9,48 +9,48 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 4,00   |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
 * * *
 ### OHM BLACK  
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 4,00   |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
 * * *
 ### AROM ABSOLUTE  
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 4,00   |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
 * * *
 ### ZENTRO
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $  4,00  |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-zentro.jpg)
 * * *
 ### ORIGINAL
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 3,00  |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
 * * *
 ### ACLARANTE 
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 3,00   |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
 * * *
 ### SIN AROMA 
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $ 3,00   |Stock
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
 * * *
 ### BRISA FLORAL
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
-|Precio: $    |Stock: 1 |
+|Precio: $  3,00   | Stock 
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-brisa.jpg)
