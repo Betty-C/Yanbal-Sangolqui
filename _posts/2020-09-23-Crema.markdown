@@ -16,7 +16,7 @@ tag: [Cremas, Yanbal]
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
 | Precio: $  7,00 | Stock |
 
-![perfumes]({{ site.baseurl }}/assets/img/crem-ccori.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/crema-ccori.jpg)
 * * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal  |
