@@ -37,13 +37,13 @@ sitemap :
 #### ROSE  | 5 ml | yanbal  |
 | Precio: $   | Stock  |
 
-![perfumes]({{ site.baseurl }}/assets/img/maq-rose.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/maq-rose.png)
 * * *
 ### LABIAL
 #### PINK CORAL  | 4 g | yanbal  |
 | Precio: $   | Stock  |
 
-![perfumes]({{ site.baseurl }}/assets/img/maq-pinkcoral.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/maq-pinkcoral.png)
 
 * * *
 ### LABIAL
@@ -56,7 +56,7 @@ sitemap :
 #### MALVA SPIRIT  | 4 g | yanbal  |
 | Precio: $   | Stock  |
 
-![perfumes]({{ site.baseurl }}/assets/img/maq-rojofashion.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/maq-malvaspirit.png)
 ### LABIAL
 #### FEMME NACAR | 4 g | yanbal  |
 | Precio: $   | Stock  |
