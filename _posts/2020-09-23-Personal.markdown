@@ -26,13 +26,13 @@ tag: [Sweden, Travel, Forest]
 * * *
 ### AROM
 #### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 5,00 | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-arom.jpg)
 * * *
 ### ZENTRO
 #### GEL DESPUES DE AFEITAR  | 90 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 5,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
 * * *
