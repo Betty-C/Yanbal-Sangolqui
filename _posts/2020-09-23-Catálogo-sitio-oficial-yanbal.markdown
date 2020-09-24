@@ -26,4 +26,5 @@ Revise el catálogo completo de yanbala continuación:
 [![logo de google][logo]][google]
 
 `Esto es una línea de código`
-``` diff Esto es una línea de código ```
+``` diff 
+Esto es una línea de código ```
