@@ -1,7 +1,7 @@
 logo: # add logo name
 title: La vitrina de vèrtice
 description: > # this means to ignore newlines until "baseurl:"
-  Este sitio fue creado para aprender herraminetas TICs y  promocionar productos que tiene mi madre en stock, apoyenla!
+  Este sitio fue creado para aprender herraminetas TICs y  promocionar productos que tiene mi madre en stock, apoyenla! yanbal, Selva Alegre, Sangolquí, Ecuador
 permalink: ':title/'
 baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ banner-desc: # add banner description
 # Author settings
 author-pic: oso.jpg # your photo
 author-name: Betty #your name
-about-author:   Este sitio fue creado para aprender herraminetas TICs y  promocionar productos que tengo disponibles # about author
+about-author:   Este sitio fue creado para promocionar productos que tengo en stock y aprender herraminetas TICs   # about author
 phone: 0995957267 Betty Cuichám # your pnone number
 email: - # your email
 website: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ # you website
