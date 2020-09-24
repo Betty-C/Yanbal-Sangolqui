@@ -11,3 +11,5 @@ tag: [yanbal]
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
+
+<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>
