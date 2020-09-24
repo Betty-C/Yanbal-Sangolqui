@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Varios"
+img: portada-aseo.jpg # Add image post (optional)
+date: 2020-09-23 12:52:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Sweden, Travel, Forest]
+---
+### MENTA Y ROMERO
+#### SHAMPOO & ACONDICIONADOR | 310 ml  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-menta.jpg)
+* * *
+### GEL SANITIZANTE PARA MANOS
+#### 67% ALCOHOL | 200 ml  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
+* * *
+### SENTIVA REVITALIST
+#### LOCIÓN TONICA ENERGIZANTE | 150 ml  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-tonico.jpg)
+* * *
+### AROM
+#### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-arom.jpg)
+* * *
+### ZENTRO
+#### GEL DESPUES DE AFEITAR  | 90 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
+* * *
+### SENTIVA
+#### MASCARILLA FACIAL  | 100 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-mascarilla.jpg)
+* * *
+### SENTIVA
+#### EXFOLIANTE FACIAL | 100 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/hig-exfoliante.jpg)
+
+
+
