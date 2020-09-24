@@ -10,23 +10,23 @@ tag: [Sol, Protector]
 #### SPF 100 SIN BRILLO - ACABADO INVISIBLE | 80 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-matificante.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/pro-matificante.jpg)
 * * *
 ### kIDS
 #### SPF 70 | 80 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-kids.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/pro-kids.jpg)
 * * *
 ### PROTECTOR SOLAR
 #### SPF 100 | 80 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-muyalta.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/pro-muyalta.jpg)
 * * *
 ### PROTECTOR SOLAR EN CREMA CON COLOR
 #### SPF 100 | 80 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-crema.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/pro-crema.jpg)
 
