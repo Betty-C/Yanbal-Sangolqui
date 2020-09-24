@@ -8,25 +8,25 @@ tag: [Sol, Protector]
 ---
 ### PROTECTOR MATIFICANTE
 #### SPF 100 SIN BRILLO - ACABADO INVISIBLE | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 15,00  | Stock  |
 
-![perfumes]({{ site.baseurl }}/assets/img/pro-matificante.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/pro-matificado.jpg)
 * * *
 ### kIDS
 #### SPF 70 | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  15,00 | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-kids.jpg)
 * * *
 ### PROTECTOR SOLAR
 #### SPF 100 | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  15,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-muyalta.jpg)
 * * *
 ### PROTECTOR SOLAR EN CREMA CON COLOR
 #### SPF 100 | 80 g  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  15,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-crema.jpg)
 
