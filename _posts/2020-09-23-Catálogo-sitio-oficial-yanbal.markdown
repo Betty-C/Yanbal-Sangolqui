@@ -8,9 +8,9 @@ tag: [yanbal]
 ---
 Revise el catálogo completo de yanbala continuación:
 
-[logo]: ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
+[logo1]: ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
 [yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
-[![logo de yanbal][logo]][yanbal]
+[![logo de yanbal][logo1]][yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>)
 
