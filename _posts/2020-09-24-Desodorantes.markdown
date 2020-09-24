@@ -2,7 +2,7 @@
 layout: post
 title: "Desodorantes"
 img: Portada_Desodorantes.jpg # Add image post (optional)
-date: 2020-09-22 12:52:00 +0300
+date: 2020-09-24 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
