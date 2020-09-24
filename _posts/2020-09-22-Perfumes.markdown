@@ -8,55 +8,55 @@ tag: [Perfumes]
 ---
 ### ZENTRO  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 30,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentro.jpg)
 * * *
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
-|Precio: $    | Stock: 1  |
+|Precio: $  35,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentroblack.jpg)
 * * *
 ### OHM  
 #### BLACK  | 100 ml | yanbal |
-|Precio: $    | Stock: 1  |
+|Precio: $ 30,00   | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-ohm.jpg)
 * * *
 ### UNIQUE WOMEN 
 #### EAU DE PARFUM |  50 ml | yanbal  |
-|Precio: $    | Stock: 1  |
+|Precio: $  20,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-woman.jpg)
 * * *
 ### UNIQUE WOMEN INFINITY
 #### EAU DE PARFUM  | 50 ml | yanbal  | 
-|Precio: $    | Stock: 1  |
+|Precio: $  20,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-infinity.jpg)
 * * *
 ### DULCE VANIDAD
 #### EAU DE PARFUM  | 50 ml | yanbal  |
-|Precio: $    | Stock: 1  |
+|Precio: $  20,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-vanidad.jpg)
 * * *
 ### XISS
 #### EAU DE TOILTTE | 110 ml | yanbal |
-|Precio: $    | Stock: 1  |
+|Precio: $  15,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-xiss.jpg)
 * * *
 ### ILUMINAS
 #### EAU DE PARFUM  | 50 ml | ésika |
-|Precio: $    | Stock: 1  |
+|Precio: $  15,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-iluminas.jpg)
 * * *
 ### SECRET MUSK
 #### EAU DE PARFUM/ COLONIA   | 30 ml | ésika |
-|Precio: $    | Stock: 1  |
+|Precio: $  20,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-musk.jpg)
 
