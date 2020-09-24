@@ -8,19 +8,19 @@ tag: [Sweden, Travel, Forest]
 ---
 ### MENTA Y ROMERO
 #### SHAMPOO & ACONDICIONADOR | 310 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 5,00   | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-menta.jpg)
 * * *
 ### GEL SANITIZANTE PARA MANOS
 #### 67% ALCOHOL | 200 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 4,00  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
 * * *
 ### SENTIVA REVITALIST
 #### LOCIÓN TONICA ENERGIZANTE | 150 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 7,50  | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-tonico.jpg)
 * * *
@@ -46,7 +46,7 @@ tag: [Sweden, Travel, Forest]
 #### EXFOLIANTE FACIAL | 100 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-exfoliante.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/hig-exfoliate.jpg)
 
 
 
