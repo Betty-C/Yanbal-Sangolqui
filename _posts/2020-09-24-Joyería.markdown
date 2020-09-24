@@ -22,7 +22,7 @@ tag: [TArgollas]
 
 ### ARETES
 #### CEREZASMETAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 13.00  | Stock  |
+| Precio: $ 13,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
 * * *
@@ -36,14 +36,14 @@ tag: [TArgollas]
 
 ### ARETES
 #### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 17,00   | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-5.jpg)
 * * *
 
 ### ARETES
 #### SILENNE METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 25,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
