@@ -8,14 +8,14 @@ tag: [TArgollas]
 ---
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $  20,00 | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-1.jpg)
 * * *
 
 ### ARETES
 #### YACINE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 25  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
 * * *
@@ -43,14 +43,14 @@ tag: [TArgollas]
 
 ### ARETES
 #### SILENNE METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 25,00  | Stock |
+| Precio: $ 20,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
 
 ### ARETES
 #### METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 22,00  | Stock |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-7.jpg)
 * * *
