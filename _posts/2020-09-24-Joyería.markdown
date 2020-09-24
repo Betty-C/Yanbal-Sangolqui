@@ -6,57 +6,57 @@ date: 2020-09-24 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [TArgollas]
 ---
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES 
+#### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-1.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### YACINE METAL BAÑADO EN ORO | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES 
+#### LEONORA ROSE METAL BAÑADO EN ORO | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-4.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-5.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### SILENNE METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-7.jpg)
 * * *
 
-### PITAHAYA
-#### COLONIA  | yanbal  |
+### ARETES
+#### DIAMANTI STAR METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $   | Stock: 1  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-8.jpg)
