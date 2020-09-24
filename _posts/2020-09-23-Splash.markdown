@@ -8,25 +8,25 @@ tag: [Yanbal, Splash]
 ---
 ### PITAHAYA
 #### COLONIA  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 10,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg)
 * * *
 ### SOY DULCE
-#### PITAHAYA  |  200 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+#### SPRAY  |  200 ml  | yanbal  |
+| Precio: $ 10,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-dulce.jpg)
 * * *
 ### UN AMOR
 #### SPRAY  | 200 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 10,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-amor.jpg)
 * * *
 ### SLOW
 #### SPRAY  | 200 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $ 10,00  | Stock  |
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-glow.jpg)
 * * *
