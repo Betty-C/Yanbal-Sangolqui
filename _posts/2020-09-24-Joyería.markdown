@@ -4,60 +4,60 @@ title: "Joyería"
 img: portada-joyeria.jpg # Add image post (optional)
 date: 2020-09-24 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [TArgollas]
+tag: [Argollas]
 ---
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $  20,00 | Stock  |
+| Precio: $  20,00 | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-1.jpg)
 * * *
 
 ### ARETES
 #### YACINE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $ 25  | Stock  |
+| Precio: $ 25  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
 * * *
 
 ### ARETES
 #### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 13,00  | Stock  |
+| Precio: $ 13,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
 * * *
 
 ### ARETES 
 #### LEONORA ROSE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $ 20,00  | Stock |
+| Precio: $ 20,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-4.jpg)
 * * *
 
 ### ARETES
 #### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
-| Precio: $ 17,00   | Stock  |
+| Precio: $ 17,00   | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-5.jpg)
 * * *
 
 ### ARETES
 #### SILENNE METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 20,00  | Stock |
+| Precio: $ 20,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
 
 ### ARETES
 #### METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 22,00  | Stock |
+| Precio: $ 22,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-7.jpg)
 * * *
 
 ### ARETES
 #### DIAMANTI STAR METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $  15,00 | Stock |
+| Precio: $  15,00 | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-8.jpg)
-* * *
+
