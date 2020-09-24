@@ -24,3 +24,4 @@ tag: [yanbal]
 [![logo de google][logo]][google]
 
 `Esto es una línea de código`
+``` diff Esto es una línea de código ```
