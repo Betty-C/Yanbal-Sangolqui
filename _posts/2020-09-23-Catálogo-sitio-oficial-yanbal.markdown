@@ -8,28 +8,11 @@ tag: [yanbal]
 ---
 Revise el catálogo completo de yanbala continuación:
 
-[logo1]: ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)
-[yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
-[![logo de yanbal][logo1]][yanbal]
-
-
-
-[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/yanbal-logo.jpg
+[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/yanbal-logo2.png
 [yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
 [![logo de yanbal][logo2]][yanbal]
 
-![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>)
 
-<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>
-
-![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)("http://www.lostejos.com")
-
-![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(http://www.lostejos.com)
-
-
-[logo]: http://www.google.com/images/logo.gif
-[google]: http://www.google.com/ "clic para visitar Google.com"
-[![logo de google][logo]][google]
 
 `Esto es una línea de código
 `
