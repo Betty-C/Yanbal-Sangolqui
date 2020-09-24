@@ -18,12 +18,6 @@ tag: [Sweden, Travel, Forest]
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
 * * *
-### SENTIVA REVITALIST
-#### LOCIÓN TONICA ENERGIZANTE | 150 ml  | yanbal  |
-| Precio: $ 7,50  | Stock: 1  |
-
-![perfumes]({{ site.baseurl }}/assets/img/hig-tonico.jpg)
-* * *
 ### AROM
 #### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
 | Precio: $ 5,00 | Stock  |
@@ -37,16 +31,16 @@ tag: [Sweden, Travel, Forest]
 ![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
 * * *
 ### SENTIVA
-#### MASCARILLA FACIAL  | 100 g  | yanbal  |
+#### EXFOLIANTE Y MASCARILLA FACIAL  | 100 g  c/u | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-mascarilla.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
 * * *
 ### SENTIVA
-#### EXFOLIANTE FACIAL | 100 g  | yanbal  |
+#### LIMPIADOR EN GEL Y LOCIÓN TÓNICA | 120 g y 150 ml  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-exfoliate.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva2.jpg)
 
 
 
