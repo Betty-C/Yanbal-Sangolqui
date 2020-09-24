@@ -2,43 +2,43 @@
 layout: post
 title: "Varios"
 img: portada-aseo.jpg # Add image post (optional)
-date: 2020-09-23 12:52:00 +0300
+date: 2020-09-24 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Sweden, Travel, Forest]
 ---
 ### MENTA Y ROMERO
 #### SHAMPOO & ACONDICIONADOR | 310 ml  | yanbal  |
-| Precio: $ 5,00   | Stock  |
+| Precio: $ 5,00   | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-menta.jpg)
 * * *
 ### GEL SANITIZANTE PARA MANOS
 #### 67% ALCOHOL | 200 ml  | yanbal  |
-| Precio: $ 4,00  | Stock: 1  |
+| Precio: $ 4,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
 * * *
 ### AROM
 #### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
-| Precio: $ 5,00 | Stock  |
+| Precio: $ 5,00 | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-arom.jpg)
 * * *
 ### ZENTRO
 #### GEL DESPUES DE AFEITAR  | 90 g  | yanbal  |
-| Precio: $ 5,00  | Stock  |
+| Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
 * * *
 ### SENTIVA
 #### EXFOLIANTE Y MASCARILLA FACIAL  | 100 g  c/u | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $   | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
 * * *
 ### SENTIVA
 #### LIMPIADOR EN GEL Y LOCIÓN TÓNICA | 120 g y 150 ml  | yanbal  |
-| Precio: $   | Stock: 1  |
+| Precio: $   | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva2.jpg)
 
