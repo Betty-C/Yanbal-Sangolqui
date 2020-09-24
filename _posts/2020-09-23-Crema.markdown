@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
-img: canyon.jpg # Add image post (optional)
+title: "Cremas"
+img: portada-cremas.jpg # Add image post (optional)
 date: 2020-09-23 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Cremas, Yanbal]
@@ -12,9 +12,22 @@ tag: [Cremas, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-gato.jpg)
 * * *
-### UÑA DE GATO
-#### CREMA DE MANOS  | 80 g  | yanbal  |
+### CCORI
+#### LOCIÓN PERFUMADA | 100 g  | yanbal  |
 | Precio: $   | Stock: 1  |
 
-![perfumes]({{ site.baseurl }}/assets/img/crem-gato.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/crem-ccori.jpg)
 * * *
+### SEDA
+#### LOCIÓN PERFUMADA | 210 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
+* * *
+### GAIA
+#### LOCIÓN PERFUMADA | 100 g  | yanbal  |
+| Precio: $   | Stock: 1  |
+
+![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
+* * *
+
