@@ -1,5 +1,5 @@
 logo: # add logo name
-title: La vitrina de vèrtice
+title: La vitrina de Vértice
 description: > # this means to ignore newlines until "baseurl:"
   Este sitio fue creado para aprender herraminetas TICs y  promocionar productos que tiene mi madre en stock, apoyenla! yanbal, Selva Alegre, Sangolquí, Ecuador
 permalink: ':title/'
