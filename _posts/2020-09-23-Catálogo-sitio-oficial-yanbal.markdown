@@ -40,7 +40,7 @@ Esto es una línea de código
 
 <p style='color:red'>This is some red text.</p>
 <font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+These are <b style='color:green'>red words</b>.
 
 
 Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-a-github-readmemd-archivo
