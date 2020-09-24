@@ -25,9 +25,12 @@ Revise el catálogo completo de yanbala continuación:
 [google]: http://www.google.com/ "clic para visitar Google.com"
 [![logo de google][logo]][google]
 
-`Esto es una línea de código`
+`Esto es una línea de código
+`
+
 ``` diff 
-Esto es una línea de código ```
+Esto es una línea de código 
+```
 
 <p style='color:red'>This is some red text.</p>
 <font color="red">This is some text!</font>
