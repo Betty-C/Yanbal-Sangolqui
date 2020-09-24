@@ -12,6 +12,12 @@ Revise el catálogo completo de yanbala continuación:
 [yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
 [![logo de yanbal][logo1]][yanbal]
 
+
+
+[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/yanbal-logo.jpg
+[yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
+[![logo de yanbal][logo2]][yanbal]
+
 ![perfumes]({{ site.baseurl }}/assets/img/yanbal-logo.jpg)(<a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>)
 
 <a title="Los Tejos" href="http://www.lostejos.com"><img src="yanbal-logo.jpg" alt="Los Tejos" /></a>
