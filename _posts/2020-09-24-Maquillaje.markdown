@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAQUILLLAJE"
+title: "Maquillaje"
 img: portada-maquillaje.jpg # Add image post (optional)
 date: 2020-09-24
 description: # Add post description (optional)
