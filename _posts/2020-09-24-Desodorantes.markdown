@@ -28,7 +28,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
 
-![perfumes]({{ site.baseurl }}/assets/img/des-brisa.jpg)
+![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRASPIRANTE  | 50 g | yanbal |
