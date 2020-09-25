@@ -11,6 +11,8 @@ tag: [Yanbal, Splash]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg)
+
+![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg){ width=50% }
 * * *
 ### SOY DULCE
 #### SPRAY  |  200 ml  | yanbal  |
