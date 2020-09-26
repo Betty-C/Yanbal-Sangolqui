@@ -32,13 +32,13 @@ tag: [Sweden, Travel, Forest]
 * * *
 ### SENTIVA
 #### EXFOLIANTE Y MASCARILLA FACIAL  | 100 g  c/u | yanbal  |
-| Precio: $  15,00  | <b style='color:green'> stock </b>
+| Precio: $  7,50 c/u | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
 * * *
 ### SENTIVA
 #### LIMPIADOR EN GEL Y LOCIÓN TÓNICA | 120 g y 150 ml  | yanbal  |
-| Precio: $ 15,00  | <b style='color:green'> stock </b>
+| Precio: $ 7,50 c/u  | <b style='color:green'> stock </b>
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva2.jpg)
 
