@@ -29,6 +29,7 @@ tag: [Yanbal, Splash]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-dulce.jpg)
 * * *
+* * *
 ### UN AMOR
 #### SPRAY  | 200 ml  | yanbal  |
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
@@ -38,6 +39,7 @@ tag: [Yanbal, Splash]
 [![logo de yanbal][logo]][whats]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-amor.jpg)
+* * *
 * * *
 ### SLOW
 #### SPRAY  | 200 ml  | yanbal  |
