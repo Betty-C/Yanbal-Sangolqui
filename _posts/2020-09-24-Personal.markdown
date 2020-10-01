@@ -10,11 +10,19 @@ tag: [Sweden, Travel, Forest]
 #### SHAMPOO & ACONDICIONADOR | 310 ml  | yanbal  |
 | Precio: $ 5,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[ROMERO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Shampoo%20MENTA%20Y%20ROMERO%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ROMERO]
+
 ![perfumes]({{ site.baseurl }}/assets/img/hig-menta.jpg)
 * * *
 ### GEL SANITIZANTE PARA MANOS
 #### 67% ALCOHOL | 200 ml  | yanbal  |
 | Precio: $ 4,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[SANITIZANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20GEL%20SANITIZANTE%20PARA%20MANOS%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][SANITIZANTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
 * * *
@@ -22,11 +30,19 @@ tag: [Sweden, Travel, Forest]
 #### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
 | Precio: $ 5,00 | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[AROM1]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Gel%20despues%20de%20afeitar%20AROM%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][AROM1]
+
 ![perfumes]({{ site.baseurl }}/assets/img/hig-arom.jpg)
 * * *
 ### ZENTRO
 #### GEL DESPUES DE AFEITAR  | 90 g  | yanbal  |
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[ZENTROgel]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Gel%20despues%20de%20afeitar%20ZENTRO%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ZENTROgel]
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
 * * *
@@ -35,11 +51,20 @@ tag: [Sweden, Travel, Forest]
 | Precio: $  7,50 EXFOLIANTE | Precio: $  7,50 MASCARILLA | <b style='color:green'> stock </b>
 <b style='color:green'> stock </b>
 
+logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[SENTIVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Exfoliante%20y%20mascarilla%20facial%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][SENTIVA]
+
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
 * * *
 ### SENTIVA
 #### LIMPIADOR EN GEL Y LOCIÓN TÓNICA | 120 g y 150 ml  | yanbal  |
 | Precio: $ 7,50 c/u  LIMPIADOR| Precio: $ 7,50 c/u  LOCIÓN TÓNICA|<b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[LIMPIADOR]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Limpiador%20en%20gel%20y%20loci%C3%B3n%20tonica%20SENTIVA%20%20-%20yanbal"clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][LIMPIADOR]
+
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva2.jpg)
 
