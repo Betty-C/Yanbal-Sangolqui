@@ -11,8 +11,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 3,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ORIGINAL%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ORIGINAL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ORIGINAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ORIGINAL]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
 * * *
@@ -22,8 +22,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ACLARANTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ACLARANTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
 * * *
@@ -33,8 +33,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20SIN%20AROMA%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[SINAROMA ]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20SIN%20AROMA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][SINAROMA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
 * * *
@@ -44,8 +44,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][BRISA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
 * * *
@@ -55,8 +55,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[GAIA1]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][GAIA1]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
 * * *
@@ -66,8 +66,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20BLACK%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[BLACK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20BLACK%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][BLACK]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
 * * *
@@ -77,8 +77,8 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20AROM%20ABSOLUTE%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ABSOLUTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20AROM%20ABSOLUTE%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ABSOLUTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
 * * *
@@ -88,7 +88,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $  4,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ZENTRO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ZENTRO]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-zentro.jpg)
