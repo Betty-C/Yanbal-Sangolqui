@@ -10,17 +10,31 @@ tag: [Cremas, Yanbal]
 #### LOCIÓN PERFUMADA  | 100 g  | yanbal  |
 | Precio: $  7,00 | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20CCORI%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/crema-ccori.jpg)
+* * *
 * * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal  |
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20SEDA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
+* * *
 * * *
 ### GAIA
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
 | Precio: $ 7,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
 
