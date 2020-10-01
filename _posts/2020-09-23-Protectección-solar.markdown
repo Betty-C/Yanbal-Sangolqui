@@ -16,6 +16,7 @@ tag: [Sol, Protector]
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-matificado.jpg)
 * * *
+* * *
 ### kIDS
 #### SPF 70 | 80 g  | yanbal  |
 | Precio: $  15,00 | <b style='color:green'> stock </b>
@@ -27,6 +28,7 @@ tag: [Sol, Protector]
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-kids.jpg)
 * * *
+* * *
 ### PROTECTOR SOLAR
 #### SPF 100 | 80 g  | yanbal  |
 | Precio: $  15,00  | <b style='color:green'> stock </b>
@@ -37,6 +39,7 @@ tag: [Sol, Protector]
  [![logo de yanbal][logo]][whats]
 
 ![perfumes]({{ site.baseurl }}/assets/img/pro-muyalta.jpg)
+* * *
 * * *
 ### PROTECTOR SOLAR EN CREMA CON COLOR
 #### SPF 100 | 80 g  | yanbal  |
