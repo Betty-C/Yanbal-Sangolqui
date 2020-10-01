@@ -12,8 +12,8 @@ tag: [Yanbal, Splash]
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][whats]
+[PITAHAYA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][PITAHAYA]
 
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg)
@@ -24,8 +24,8 @@ tag: [Yanbal, Splash]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20DULCE%20-%20yanbal "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][whats]
+[DULCE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20DULCE%20-%20yanbal "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][DULCE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-dulce.jpg)
 * * *
@@ -35,8 +35,8 @@ tag: [Yanbal, Splash]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20te%20deseo%20un%20AMOR%20-%20yanbal "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][whats]
+[AMOR]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20te%20deseo%20un%20AMOR%20-%20yanbal "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][AMOR]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-amor.jpg)
 * * *
@@ -46,9 +46,9 @@ tag: [Yanbal, Splash]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20GLOW%20-%20yanbal
+[SLOW]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20GLOW%20-%20yanbal
  "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+ [![logo de yanbal][logo]][SLOW]
 
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-glow.jpg)
