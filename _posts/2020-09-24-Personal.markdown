@@ -51,9 +51,9 @@ tag: [Sweden, Travel, Forest]
 | Precio: $  7,50 EXFOLIANTE | Precio: $  7,50 MASCARILLA | <b style='color:green'> stock </b>
 <b style='color:green'> stock </b>
 
-logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SENTIVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Exfoliante%20y%20mascarilla%20facial%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][SENTIVA]
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[EXFOLIANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Exfoliante%20y%20mascarilla%20facial%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][EXFOLIANTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
 * * *
@@ -62,7 +62,7 @@ logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.j
 | Precio: $ 7,50 c/u  LIMPIADOR| Precio: $ 7,50 c/u  LOCIÓN TÓNICA|<b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[LIMPIADOR]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Limpiador%20en%20gel%20y%20loci%C3%B3n%20tonica%20SENTIVA%20%20-%20yanbal"clic para abrir chat de whatsapp"
+[LIMPIADOR]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Limpiador%20en%20gel%20y%20loci%C3%B3n%20tonica%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][LIMPIADOR]
 
 
