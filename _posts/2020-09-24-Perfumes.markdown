@@ -10,53 +10,97 @@ tag: [Perfumes]
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
 | Precio: $ 30,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[ZENTRO2]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ZENTRO2]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentro.jpg)
+* * *
 * * *
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
 |Precio: $  35,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[BLACK2]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20BLACK%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][BLACK2]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentroblack.jpg)
+* * *
 * * *
 ### OHM  
 #### BLACK  | 100 ml | yanbal |
 |Precio: $ 30,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[OHM4]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20OHM%20BLACK%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][OHM4]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-ohm.jpg)
+* * *
 * * *
 ### UNIQUE WOMEN 
 #### EAU DE PARFUM |  50 ml | yanbal  |
 |Precio: $  20,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[UNIQUE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][UNIQUE]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-woman.jpg)
+* * *
 * * *
 ### UNIQUE WOMEN INFINITY
 #### EAU DE PARFUM  | 50 ml | yanbal  | 
 |Precio: $  20,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[INFINITY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20INFINITY%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][INFINITY]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-infinity.jpg)
+* * *
 * * *
 ### DULCE VANIDAD
 #### EAU DE PARFUM  | 50 ml | yanbal  |
 |Precio: $  20,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[VANIDAD]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20DULCE%20VANIDAD%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][VANIDAD]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-vanidad.jpg)
+* * *
 * * *
 ### XISS
 #### EAU DE TOILTTE | 110 ml | yanbal |
 |Precio: $  15,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[XISS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20XISS%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][XISS]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-xiss.jpg)
+* * *
 * * *
 ### ILUMINAS
 #### EAU DE PARFUM  | 50 ml | ésika |
 |Precio: $  15,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[ILUMINAS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20ILUMINAS%20-%20%C3%A9sika "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ILUMINAS]
+
 ![perfumes]({{ site.baseurl }}/assets/img/per-iluminas.jpg)
+* * *
 * * *
 ### SECRET MUSK
 #### EAU DE PARFUM/ COLONIA   | 30 ml | ésika |
 |Precio: $  20,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[MUSK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20SECRET%20MUSK%20-%20%C3%A9sika"clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][MUSK]
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-musk.jpg)
 
