@@ -12,7 +12,7 @@ tag: [Yanbal, Splash]
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995958825&text=Me%20interesa%20este%20producto%20-%3E%20Colonia%20pithaya%20ni%C3%B1as%20-%20yanbal "clic para abrir chat de whatsapp"
+[whats]: https://api.whatsapp.com/send?phone=593995957267&text=Me%20interesa%20este%20producto%20-%3E%20Colonia%20pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][whats]
 
 
@@ -24,7 +24,7 @@ tag: [Yanbal, Splash]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=Me%20interesa%20este%20producto%20-%3E%20Spray%20Soy%20dulce%20-%20yanbal
+[whats]: https://api.whatsapp.com/send?phone=593995957267&text=Me%20interesa%20este%20producto%20-%3E%20Spray%20Soy%20dulce%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][whats]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-dulce.jpg)
