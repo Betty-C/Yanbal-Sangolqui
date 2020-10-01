@@ -10,46 +10,85 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ORIGINAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
+* * *
 * * *
 ### ACLARANTE 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
+* * *
 * * *
 ### SIN AROMA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20SIN%20AROMA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
+* * *
 * * *
 ### BRISA FLORAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
+* * *
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
+* * *
 * * *
 ### OHM BLACK  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20BLACK%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
+* * *
 * * *
 ### AROM ABSOLUTE  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20AROM%20ABSOLUTE%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
+
 ![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
+* * *
 * * *
 ### ZENTRO
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $  4,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][whats]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-zentro.jpg)
