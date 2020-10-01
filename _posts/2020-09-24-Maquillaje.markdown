@@ -15,12 +15,6 @@ sitemap :
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-sombras.png)
 * * *
-### DELINEADOR LÍQUIDO
-#### PUNTA PLUMON PARA OJOS  | 3 ml | yanbal  |
-| Precio: $ 8,00   | <b style='color:green'> stock </b>
-
-![perfumes]({{ site.baseurl }}/assets/img/maq-plumon.png)
-* * *
 ### UNIQUECEIL EXTRA XL
 #### MASCARA ALARGADORA - A PRUEBA DE AGUA  | 9 g | yanbal  |
 | Precio: $  10,00 | <b style='color:green'> stock </b>
