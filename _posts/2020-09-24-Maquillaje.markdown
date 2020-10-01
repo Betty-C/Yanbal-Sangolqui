@@ -14,8 +14,8 @@ sitemap :
 | Precio: $ 15,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal"clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[SEXTETO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][SEXTETO]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-sombras.png)
 * * *
@@ -25,8 +25,8 @@ sitemap :
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20UNIQUECEIL%20EXTRA%20XL%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[EXTRA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20UNIQUECEIL%20EXTRA%20XL%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][EXTRA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rimel2.jpg)
 * * *
@@ -36,8 +36,8 @@ sitemap :
 | Precio: $  6,50 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[RIMEL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][RIMEL]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rimel3.jpg)
 * * *
@@ -47,8 +47,8 @@ sitemap :
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Esmalte%20de%20u%C3%B1as%20ROSE%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ROSE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Esmalte%20de%20u%C3%B1as%20ROSE%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ROSE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rose.png)
 * * *
@@ -58,8 +58,8 @@ sitemap :
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[PINK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][PINK]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-pinkcoral.png)
 
@@ -70,8 +70,8 @@ sitemap :
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[ROJO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ROJO]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rojofashion.jpg)
 * * *
@@ -81,8 +81,8 @@ sitemap :
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[MALVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][MALVA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-malvaspirit.png)
 * * *
@@ -92,7 +92,7 @@ sitemap :
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20FEMME%20NACAR%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[FEMME]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20FEMME%20NACAR%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][FEMME]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-femmenacar.jpg)
