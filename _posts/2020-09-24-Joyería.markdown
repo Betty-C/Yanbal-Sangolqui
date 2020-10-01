@@ -11,8 +11,8 @@ tag: [Aretes]
 | Precio: $  20,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LOVE%20DORE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[LOVE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LOVE%20DORE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][LOVE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-1.jpg)
 * * *
@@ -23,8 +23,8 @@ tag: [Aretes]
 | Precio: $ 25  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20YACINE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20YACINE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][YACINE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
 * * *
@@ -36,8 +36,8 @@ tag: [Aretes]
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20CEREZAS%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[CEREZAS]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20CEREZAS%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][CEREZAS]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
 * * *
@@ -48,8 +48,8 @@ tag: [Aretes]
 | Precio: $ 20,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LEONORA%20ROSE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[LEONORA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LEONORA%20ROSE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][LEONORA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-4.jpg)
 * * *
@@ -60,8 +60,8 @@ tag: [Aretes]
 | Precio: $ 17,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20MIRELLE%20METAL%20LOVE%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[MIRELLE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20MIRELLE%20METAL%20LOVE%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][MIRELLE]
 
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-5.jpg)
@@ -73,8 +73,8 @@ tag: [Aretes]
 | Precio: $ 20,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20SILENNE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[SILENNE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20SILENNE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][SILENNE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
@@ -85,8 +85,8 @@ tag: [Aretes]
 | Precio: $ 22,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[BAÑADO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][BAÑADO]
 
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-7.jpg)
@@ -99,8 +99,8 @@ tag: [Aretes]
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[whats]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20DIAMANTI%20STAR%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][whats]
+[DIAMANTI]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20DIAMANTI%20STAR%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][DIAMANTI]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-8.jpg)
 
