@@ -9,6 +9,9 @@ tag: [Yanbal, Splash]
 ### PITAHAYA
 #### COLONIA  | yanbal  |
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
+[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/yanbal-logo2.png
+[yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c10/oficial/ "clic para visitar CATALOGO YANBAL"
+[![logo de yanbal][logo2]][yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg)
 * * *
