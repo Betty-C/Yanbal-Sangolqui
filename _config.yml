@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Este sitio fue creado para aprender herraminetas TICs y  promocionar productos que tiene mi madre en stock, apoyenla! yanbal, Selva Alegre, Sangolquí, Ecuador
 permalink: ':title/'
 baseurl: "/bef" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "betty-c.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: yanbal.mp4 # add banner video. Add your video file to the folder video
