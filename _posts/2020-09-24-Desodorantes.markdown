@@ -16,7 +16,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
 * * *
-* * *
 ### ACLARANTE 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
@@ -26,7 +25,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
  [![logo de yanbal][logo]][ACLARANTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
-* * *
 * * *
 ### SIN AROMA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
@@ -38,7 +36,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
 * * *
-* * *
 ### BRISA FLORAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
@@ -48,7 +45,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
  [![logo de yanbal][logo]][BRISA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
-* * *
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
@@ -60,7 +56,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-gaia.jpg)
 * * *
-* * *
 ### OHM BLACK  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
@@ -71,7 +66,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
 * * *
-* * *
 ### AROM ABSOLUTE  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 4,00   | <b style='color:green'> stock </b>
@@ -81,7 +75,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
  [![logo de yanbal][logo]][ABSOLUTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
-* * *
 * * *
 ### ZENTRO
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
