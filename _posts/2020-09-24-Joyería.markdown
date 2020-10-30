@@ -16,8 +16,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-1.jpg)
 * * *
-* * *
-
 ### ARETES
 #### YACINE METAL BAÑADO EN ORO | yanbal  |
 | Precio: $ 25  | <b style='color:green'> stock </b>
@@ -28,8 +26,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
 * * *
-* * *
-
 ### ARETES
 #### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $ 13,00  | <b style='color:green'> stock </b>
@@ -41,20 +37,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
 * * *
-* * *
-
-### ARETES 
-#### LEONORA ROSE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $ 20,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[LEONORA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LEONORA%20ROSE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][LEONORA]
-
-![perfumes]({{ site.baseurl }}/assets/img/joy-4.jpg)
-* * *
-* * *
-
 ### ARETES
 #### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
 | Precio: $ 17,00   | <b style='color:green'> stock </b>
@@ -66,8 +48,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-5.jpg)
 * * *
-* * *
-
 ### ARETES
 #### SILENNE METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $ 20,00  | <b style='color:green'> stock </b>
@@ -78,8 +58,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-6.jpg)
 * * *
-* * *
-
 ### ARETES
 #### METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $ 22,00  | <b style='color:green'> stock </b>
@@ -91,8 +69,6 @@ tag: [Aretes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-7.jpg)
 * * *
-* * *
-
 ### ARETES
 #### DIAMANTI STAR METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $  15,00 | <b style='color:green'> stock </b>
