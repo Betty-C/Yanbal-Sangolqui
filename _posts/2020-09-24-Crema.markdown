@@ -9,12 +9,15 @@ tag: [Cremas, Yanbal]
 ### CCORI
 #### LOCIÓN PERFUMADA  | 100 g  | yanbal  |
 | Precio: $  7,00 | <b style='color:green'> stock </b>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla1.jpg?raw=true" width="350" height="450" />
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [CCORI]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20CCORI%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CCORI]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crema-ccori.jpg)
+</center>
 * * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal  |
