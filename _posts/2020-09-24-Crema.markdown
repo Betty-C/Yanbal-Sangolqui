@@ -16,7 +16,6 @@ tag: [Cremas, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crema-ccori.jpg)
 * * *
-* * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal  |
 | Precio: $  10,00 | <b style='color:green'> stock </b>
@@ -26,7 +25,6 @@ tag: [Cremas, Yanbal]
  [![logo de yanbal][logo]][SEDA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
-* * *
 * * *
 ### GAIA
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
