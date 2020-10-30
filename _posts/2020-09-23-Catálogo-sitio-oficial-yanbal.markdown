@@ -6,7 +6,7 @@ date: 2020-10-12 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [yanbal]
 ---
-Revise el catálogo completo de yanbal a continuación:
+Revise el catálogo completo actual.
 
 [logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/yanbal-logo2.png
 [yanbal]: https://docs.yanbal.com/cdigital/ec/2020/c11/oficial/ "clic para visitar CATALOGO YANBAL"
