@@ -18,7 +18,6 @@ tag: [Yanbal, Splash]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-ninas.jpg)
 * * *
-* * *
 ### SOY DULCE
 #### SPRAY  |  200 ml  | yanbal  |
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
@@ -29,7 +28,6 @@ tag: [Yanbal, Splash]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-dulce.jpg)
 * * *
-* * *
 ### UN AMOR
 #### SPRAY  | 200 ml  | yanbal  |
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
@@ -39,7 +37,6 @@ tag: [Yanbal, Splash]
 [![logo de yanbal][logo]][AMOR]
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-amor.jpg)
-* * *
 * * *
 ### SLOW
 #### SPRAY  | 200 ml  | yanbal  |
@@ -52,4 +49,6 @@ tag: [Yanbal, Splash]
 
 
 ![perfumes]({{ site.baseurl }}/assets/img/splash-glow.jpg)
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
 
