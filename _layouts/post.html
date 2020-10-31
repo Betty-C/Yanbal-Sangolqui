@@ -25,6 +25,7 @@ layout: default
           <span>Share:</span>
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
           <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://api.whatsapp.com/send?text={{ site.url }}{{ page.url }}" title="Share on Whatsapp" rel="nofollow" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
         </div>
         <div class="post_tag">
           <span>Tags:</span>
@@ -53,9 +54,9 @@ layout: default
           {% endif %}
 
           {% if site.website %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
+          <span class="author_website"><i class="fa fa-map-marker" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
           {% else %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
+          <span class="author_website"><i class="fa fa-map-marker" aria-hidden="true"></i> <a href="#" target="_blank">Selva Alegre - Sangolquí - Ecuador</a></span>
           {% endif %}            
         </div>
       </div>
