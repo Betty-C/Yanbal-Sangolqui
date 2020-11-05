@@ -25,6 +25,27 @@ tag: [Aretes]
  [![logo de yanbal][logo]][YACINE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-2.jpg)
+
+* * *
+### COLLAR Y ARETES
+#### LUNITA MAGIC | yanbal  |
+| Precio: $ 25  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Colecci%C3%B3n%20lunita%20magic%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][YACINE]
+
+![perfumes]({{ site.baseurl }}/assets/img/joy-luna.jpg)
+* * *
+### PULSERA
+#### TROPICALIA | yanbal  |
+| Precio: $ 25  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][YACINE]
+
+![perfumes]({{ site.baseurl }}/assets/img/joy-pulsera.jpg)
 * * *
 ### ARETES
 #### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
