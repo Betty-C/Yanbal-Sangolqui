@@ -47,6 +47,9 @@ tag: [Desodorante, Perfume, effective, Yanbal]
  [![logo de yanbal][logo]][BRISA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
+
+![perfumes]({{ site.baseurl }}/assets/img/des-floral2.jpg)
+
 * * *
 ### GAIA  
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
