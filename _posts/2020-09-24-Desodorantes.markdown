@@ -25,6 +25,17 @@ tag: [Desodorante, Perfume, effective, Yanbal]
  [![logo de yanbal][logo]][ACLARANTE]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
+
+* * *
+### ACLARANTE 
+#### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
+|Precio: $ 3,00   | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[ACLARANTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ACLARANTE]
+
+![perfumes]({{ site.baseurl }}/assets/img/des-aclarante2.jpg)
 * * *
 ### SIN AROMA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
