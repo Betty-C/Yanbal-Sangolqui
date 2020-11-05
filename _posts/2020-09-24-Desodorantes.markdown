@@ -71,16 +71,6 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-ohm.jpg)
 * * *
-### AROM ABSOLUTE  
-#### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $ 4,00   | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ABSOLUTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20AROM%20ABSOLUTE%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][ABSOLUTE]
-
-![perfumes]({{ site.baseurl }}/assets/img/des-arom.jpg)
-* * *
 ### ZENTRO
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $  4,00  | <b style='color:green'> stock </b>
