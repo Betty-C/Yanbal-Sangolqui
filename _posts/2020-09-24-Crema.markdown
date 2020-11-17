@@ -6,6 +6,14 @@ date: 2020-09-24 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Cremas, Yanbal]
 ---
+### TOTALIST
+#### CREMA MULTIACCIÓN ACLARANTE  | 100 g  | yanbal  |
+| Precio: $  7,00 | <b style='color:green'> stock </b>
+<center>
+<img src="https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/crem-nacar.jpg" width="300" height="400" />
+</center>
+
+
 ### CCORI
 #### LOCIÓN PERFUMADA  | 100 g  | yanbal  |
 | Precio: $  7,00 | <b style='color:green'> stock </b>
