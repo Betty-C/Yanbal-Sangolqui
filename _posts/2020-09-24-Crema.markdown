@@ -8,10 +8,12 @@ tag: [Cremas, Yanbal]
 ---
 ### TOTALIST
 #### CREMA MULTIACCIÓN ACLARANTE  | 100 g  | yanbal  |
-| Precio: $  7,00 | <b style='color:green'> stock </b>
-<center>
-<img src="https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/crem-nacar.jpg" width="300" height="400" />
-</center>
+| Precio: $  8,50 | <b style='color:green'> stock </b>
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[NACAR]: https://api.whatsapp.com/send?phone=593995957264&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aclarante%20-%20Yyanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][NACAR]
+
+![perfumes]({{ site.baseurl }}/assets/img/crem-nacar.jpg)
 
 
 ### CCORI
