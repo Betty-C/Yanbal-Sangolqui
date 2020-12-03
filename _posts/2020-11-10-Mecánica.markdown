@@ -7,7 +7,12 @@ description: Sitio destinado a mostrar productos artesanales
 tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket]
 ---
 
+<center>
+<img src="https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/sitio.jpg" width="200" height="100" />
+</center>
 
-[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/mecanica.jpg
-[yanbal]: https://jorge-onofa.github.io/karna/ "clic para visitar CATALOGO YANBAL"
+<center>
+[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/sitio.jpg
+[yanbal]: https://jorge-onofa.github.io/karna/ "clic para visitar MECÁNICA"
 [![logo de yanbal][logo2]][yanbal]
+</center>
