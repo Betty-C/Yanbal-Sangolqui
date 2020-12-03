@@ -2,7 +2,7 @@
 layout: post
 title: "Mecánica"
 img: mecanica.jpg # Add image post (optional)
-date: 2020-11-07 12:50:00 +0300
+date: 2020-12-02 12:50:00 +0300
 description: Sitio destinado a mostrar productos artesanales
 tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket]
 ---
