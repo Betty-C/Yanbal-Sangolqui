@@ -2,7 +2,7 @@
 layout: post
 title: "Maquillaje"
 img: portada-maquillaje.jpg # Add image post (optional)
-date: 2020-09-24
+date: 2020-12-03
 description: # Add post description (optional)
 tag: [Rimel,Labial,Sombras]
 sitemap :
