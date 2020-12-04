@@ -42,8 +42,8 @@ tag: [Aretes]
 | Precio: $ 25  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][YACINE]
+[TROPICALIA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][TROPICALIA]
 
 <img src="https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/joy-pulsera.jpg" width="250" height="300" />
 * * *
