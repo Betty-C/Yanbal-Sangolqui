@@ -46,17 +46,18 @@ tag: [Aretes]
  [![logo de yanbal][logo]][TROPICALIA]
 
 <img src="https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/joy-pulsera.jpg" width="250" height="300" />
+
 * * *
 ### ARETES
 #### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
 | Precio: $ 13,00  | <b style='color:green'> stock </b>
-
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [CEREZAS]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20CEREZAS%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CEREZAS]
 
 ![perfumes]({{ site.baseurl }}/assets/img/joy-3.jpg)
+
 * * *
 ### ARETES
 #### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
