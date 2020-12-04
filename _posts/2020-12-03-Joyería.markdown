@@ -45,7 +45,7 @@ tag: [Aretes]
 [YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][YACINE]
 
-![perfumes]({{ site.baseurl }}/assets/img/joy-pulsera.jpg)
+<img src="({{ site.baseurl }}/assets/img/joy-pulsera.jpg)" width="300" height="400" />
 * * *
 ### ARETES
 #### CEREZAS METAL BAÑADO EN ORO  | yanbal  |
@@ -99,5 +99,7 @@ tag: [Aretes]
 [DIAMANTI]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20DIAMANTI%20STAR%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][DIAMANTI]
 
-![perfumes]({{ site.baseurl }}/assets/img/joy-8.jpg)
+
+<img src="({{ site.baseurl }}/assets/img/joy-8.jpg)" width="300" height="400" />
+
 
