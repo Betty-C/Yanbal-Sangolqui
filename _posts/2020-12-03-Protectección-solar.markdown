@@ -3,7 +3,7 @@ layout: post
 title: "Protección solar"
 img: portada-protectores.jpg # Add image post (optional)
 date: 2020-12-03 12:50:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Protector solar Matificante, en crema y para niños
 tag: [Sol, Protector]
 ---
 ### PROTECTOR MATIFICANTE
