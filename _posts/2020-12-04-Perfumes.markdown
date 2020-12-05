@@ -26,7 +26,7 @@ tag: [Perfumes]
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-zentroblack.jpg)
 * * *
-### OHM  
+### OHM FOR MEN  
 #### BLACK  | 100 ml | yanbal |
 |Precio: $ 30,00   | <b style='color:green'> stock </b>
 
@@ -35,6 +35,18 @@ tag: [Perfumes]
  [![logo de yanbal][logo]][OHM4]
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-ohm.jpg)
+* * *
+
+### XISS
+#### EAU DE TOILTTE | 110 ml | yanbal |
+|Precio: $  15,00  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[XISS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20XISS%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][XISS]
+
+![perfumes]({{ site.baseurl }}/assets/img/per-xiss.jpg)
+
 * * *
 ### UNIQUE WOMEN INFINITY
 #### EAU DE PARFUM  | 50 ml | yanbal  | 
@@ -55,16 +67,7 @@ tag: [Perfumes]
  [![logo de yanbal][logo]][VANIDAD]
 
 ![perfumes]({{ site.baseurl }}/assets/img/per-vanidad.jpg)
-* * *
-### XISS
-#### EAU DE TOILTTE | 110 ml | yanbal |
-|Precio: $  15,00  | <b style='color:green'> stock </b>
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[XISS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20XISS%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][XISS]
-
-![perfumes]({{ site.baseurl }}/assets/img/per-xiss.jpg)
 * * *
 ### ILUMINAS
 #### EAU DE PARFUM  | 50 ml | ésika |
