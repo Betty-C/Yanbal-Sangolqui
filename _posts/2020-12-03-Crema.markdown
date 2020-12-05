@@ -29,7 +29,7 @@ tag: [Cremas, Yanbal]
 
 * * *
 ### SEDA
-#### LOCIÓN PERFUMADA | 210 g  | yanbal  |
+#### LOCIÓN PERFUMADA | 210 g  | yanbal |
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
