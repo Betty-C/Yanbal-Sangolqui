@@ -6,6 +6,22 @@ date: 2020-12-03 12:52:00 +0300
 description: Desodorantes $3 y $4
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+
 ### ORIGINAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00  | <b style='color:green'> stock </b>
@@ -29,7 +45,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 ![perfumes]({{ site.baseurl }}/assets/img/des-aclarante2.jpg)
 * * *
 ### SIN AROMA 
-#### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
+#### DESODORANTE ANTITRANSPIRANTE  | 50 g | y## collapsible markdown?anbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
@@ -43,7 +59,7 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-## collapsible markdown?%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][BRISA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
