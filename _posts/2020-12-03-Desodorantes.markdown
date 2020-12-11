@@ -7,21 +7,6 @@ description: Desodorantes $3 y $4
 tag: [Desodorante, Perfume, effective, Yanbal]
 ---
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
-
 ### ORIGINAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00  | <b style='color:green'> stock </b>
