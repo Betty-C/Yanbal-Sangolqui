@@ -28,49 +28,6 @@ sitemap :
  [![logo de yanbal][logo]][EXTRA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rimel2.jpg)
-
-1
-
----
-
-2
-
-layout: post
-
-3
-
-title: "Maquillaje"
-
-4
-
-img: portada-maquillaje.jpg # Add image post (optional)
-
-5
-
-date: 2020-12-03
-
-6
-
-description: Sombras, labiales, rimel ...
-
-7
-
-tag: [Rimel,Labial,Sombras]
-
-8
-
-sitemap :
-
-9
-
-  changefreq : weekly
-
-10
-
-  priority : 1.0
-
-11
-
 ---
 * * *
 ### RIMEL
