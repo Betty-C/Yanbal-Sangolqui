@@ -39,16 +39,7 @@ sitemap :
  [![logo de yanbal][logo]][RIMEL]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-rimel3.png)
-* * *
-### ESMALTE DE UÑAS
-#### ROSE  | 5 ml | yanbal  |
-| Precio: $ 5,00  | <b style='color:green'> stock </b>
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ROSE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Esmalte%20de%20u%C3%B1as%20ROSE%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][ROSE]
-
-![perfumes]({{ site.baseurl }}/assets/img/maq-rose.png)
 * * *
 ### LABIAL
 #### PINK CORAL  | 4 g | yanbal  |
@@ -79,13 +70,4 @@ sitemap :
  [![logo de yanbal][logo]][MALVA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/maq-malvaspirit.png)
-* * *
-### LABIAL
-#### FEMME NACAR | 4 g | yanbal  |
-| Precio: $ 5,00  | <b style='color:green'> stock </b>
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[FEMME]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20FEMME%20NACAR%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][FEMME]
-
-![perfumes]({{ site.baseurl }}/assets/img/maq-femmenacar.jpg)
