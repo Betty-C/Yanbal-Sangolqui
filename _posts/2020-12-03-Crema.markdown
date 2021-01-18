@@ -4,7 +4,7 @@ title: "Cremas Sangolquí"
 img: https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg
 date: 2020-12-03 12:54:00 +0300
 description: En stock
-tag: [Cremas, Yanbal, Sangolquí, Valle de los chillos, Selva Alegre]
+tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
 ### TOTALIST
 #### CREMA MULTIACCIÓN ANTI ARRUGAS  | 100 g  | yanbal  |
