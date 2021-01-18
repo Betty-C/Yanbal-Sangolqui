@@ -6,6 +6,19 @@ date: 2020-01-18 12:42:00 +0300
 description: Productos yanbal en stock, Valle de los Chillos - Ecuador
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
+
+### BIO MILK
+#### CREMA HIDRATANTE MORA ARÁNDANO  | 750 ml | yanbal  |
+| Precio: $  8,50 | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aNTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][JALEA]
+
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_365,w_136/v1611012942/Blog-Betty/cremas/creama-mora-min_kvjotl.png)
+
+***
+
 ### TOTALIST
 #### CREMA MULTIACCIÓN ANTI ARRUGAS  | 100 g  | yanbal  |
 | Precio: $  8,50 | <b style='color:green'> stock </b>
