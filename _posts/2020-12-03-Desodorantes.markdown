@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desodorantes"
-img: Portada_Desodorantes.jpg # Add image post (optional)
+img: portada-desodorantes.png
 date: 2020-12-03 12:52:00 +0300
 description: Desodorantes $3 y $4
 tag: [Desodorante, Perfume, effective, Yanbal]
