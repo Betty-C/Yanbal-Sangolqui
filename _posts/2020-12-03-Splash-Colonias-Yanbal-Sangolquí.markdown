@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Splash - Colonia stock Sangolquí"
+title: "Splash - Colonias Yanbal Sangolquí"
 img: portada-splash.png # Add image post (optional)
 date: 2020-01-18 12:55:00 +0300
 description: Splash, colonias Sangolquí - Ecuador
