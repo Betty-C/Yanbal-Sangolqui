@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Varios"
-img: portada-aseo.jpg # Add image post (optional)
+title: "Productos de Higene personal"
+img: portada-higiene.png 
 date: 2020-12-03 12:52:00 +0300
-description: Shampoo, gel sanitizante, del despues de afeitar
-tag: [Sweden, Travel, Forest]
+description: Shampoo, gel sanitizante, gel despues de afeitar
+tag: [Shampoo, gel sanitizante, gel despues de afeitar, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
 ### MENTA Y ROMERO
 #### SHAMPOO & ACONDICIONADOR | 310 ml  | yanbal  |
@@ -14,8 +14,10 @@ tag: [Sweden, Travel, Forest]
 [ROMERO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Shampoo%20MENTA%20Y%20ROMERO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ROMERO]
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-menta.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_293,w_126/v1611009486/Blog-Betty/Personal/hig-menta_nsvc2o.jpg)
+
 * * *
+
 ### GEL SANITIZANTE PARA MANOS
 #### 67% ALCOHOL | 200 ml  | yanbal  |
 | Precio: $ 4,00  | <b style='color:green'> stock </b>
@@ -24,8 +26,10 @@ tag: [Sweden, Travel, Forest]
 [SANITIZANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20GEL%20SANITIZANTE%20PARA%20MANOS%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][SANITIZANTE]
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-manos.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_268,w_115/v1611009484/Blog-Betty/Personal/hig-manos_g5kufk.jpg)
+
 * * *
+
 ### AROM
 #### GEL DESPUES DE AFEITAR | 90 g  | yanbal  |
 | Precio: $ 5,00 | <b style='color:green'> stock </b>
@@ -34,8 +38,10 @@ tag: [Sweden, Travel, Forest]
 [AROM1]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Gel%20despues%20de%20afeitar%20AROM%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][AROM1]
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-arom.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_274,w_113/v1611009484/Blog-Betty/Personal/hig-arom_xsglpm.jpg)
+
 * * *
+
 ### ZENTRO
 #### GEL DESPUES DE AFEITAR  | 90 g  | yanbal  |
 | Precio: $ 5,00  | <b style='color:green'> stock </b>
@@ -44,8 +50,10 @@ tag: [Sweden, Travel, Forest]
 [ZENTROgel]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Gel%20despues%20de%20afeitar%20ZENTRO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ZENTROgel]
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-zentro.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_257,w_106/v1611009487/Blog-Betty/Personal/hig-zentro_d2uywy.jpg)
+
 * * *
+
 ### SENTIVA
 #### EXFOLIANTE Y MASCARILLA FACIAL  | 100 g  c/u | yanbal  |
 | Precio: $  7,50 EXFOLIANTE | Precio: $  7,50 MASCARILLA | <b style='color:green'> stock </b>
@@ -55,8 +63,10 @@ tag: [Sweden, Travel, Forest]
 [EXFOLIANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Exfoliante%20y%20mascarilla%20facial%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][EXFOLIANTE]
 
-![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva1.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_243,w_274/v1611009486/Blog-Betty/Personal/hig-sensitiva1_aomzdv.jpg)
+
 * * *
+
 ### SENTIVA
 #### LIMPIADOR EN GEL Y LOCIÓN TÓNICA | 120 g y 150 ml  | yanbal  |
 | Precio: $ 7,50 c/u  LIMPIADOR| Precio: $ 7,50 c/u  LOCIÓN TÓNICA|<b style='color:green'> stock </b>
@@ -65,8 +75,7 @@ tag: [Sweden, Travel, Forest]
 [LIMPIADOR]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Limpiador%20en%20gel%20y%20loci%C3%B3n%20tonica%20SENTIVA%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][LIMPIADOR]
 
-
-![perfumes]({{ site.baseurl }}/assets/img/hig-sensitiva2.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_255,w_232/v1611009486/Blog-Betty/Personal/hig-sensitiva2_spzhg9.jpg)
 
 
 
