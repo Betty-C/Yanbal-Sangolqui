@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Cremas Sangolquí"
+title: "Cremas Yanbal en Sangolquí"
 img: https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg
-date: 2020-12-03 12:54:00 +0300
-description: En stock
+date: 2020-01-18 12:42:00 +0300
+description: Productos yanbal en stock, Valle de los Chillos - Ecuador
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
 ### TOTALIST
@@ -25,7 +25,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 [NACAR]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aclarante%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][NACAR]
 
-![perfumes]({{ site.baseurl }}/assets/img/crem-nacar.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_380,w_400/v1610990354/Blog-Betty/cremas/crema-total-nacar_xdj5ku.jpg)
 
 * * *
 ### GAIA
@@ -36,7 +36,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 [GAIA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][GAIA]
 
-![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_600,w_300/v1610990352/Blog-Betty/cremas/crema-lotion-gaia_gdtp50.jpg)
 
 ***
 ### CCORI
@@ -58,5 +58,5 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 [SEDA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20SEDA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][SEDA]
 
-![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_350,w_136/v1610990352/Blog-Betty/cremas/crema-lotioc-seda_pp6iaj.jpg)
 
