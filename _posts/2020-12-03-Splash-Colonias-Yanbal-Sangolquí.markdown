@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colonia-Splash stock Sangolquí"
+title: "Splash - Colonia stock Sangolquí"
 img: portada-splash.png # Add image post (optional)
 date: 2020-01-18 12:55:00 +0300
 description: Splash, colonias Sangolquí - Ecuador
@@ -15,7 +15,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 [ORQUIDEAS]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][ORQUIDEAS]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_445,w_176/v1610999296/Blog-Betty/splash/splash-orquideas_qnhnfm.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999296/Blog-Betty/splash/splash-orquideas_qnhnfm.png)
 
 * * *
 
@@ -27,7 +27,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 [ZITRIKA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][ZITRIKA]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_360,w_150/v1610999297/Blog-Betty/splash/splash-zitrika_v3a1s8.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999297/Blog-Betty/splash/splash-zitrika_v3a1s8.png)
 351
 * * *
 
@@ -76,7 +76,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 [SEXY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20SEXY%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][SEXY]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_110/v1610999296/Blog-Betty/splash/splash-sexy_eah1im.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_350,w_150/v1610999296/Blog-Betty/splash/splash-sexy_eah1im.png)
 
 
 
