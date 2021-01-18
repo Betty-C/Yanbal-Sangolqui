@@ -49,7 +49,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-## collapsible markdown?%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][BRISA]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_284,w_115/v1611005845/Blog-Betty/Desodorante/des-floral2_vly86u.png)
