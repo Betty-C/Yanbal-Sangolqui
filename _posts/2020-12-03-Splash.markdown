@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Splash"
+title: "Colonia-Splash stock Sangolquí"
 img: portada-splash.png # Add image post (optional)
 date: 2020-01-18 12:55:00 +0300
-description: Splash a $10
+description: Splash, colonias Sangolquí - Ecuador
 tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 ---
 
@@ -57,7 +57,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 * * *
 
 ### SOY FASHION
-#### SPRAY  |  200 ml  | yanbal  |
+#### SPRAY  |  200 ml  | yanbal  |351
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
