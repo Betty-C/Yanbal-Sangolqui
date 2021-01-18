@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Cremas"
+title: "Cremas Sangolquí"
 img: https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg
 date: 2020-12-03 12:54:00 +0300
 description: En stock
-tag: [Cremas, Yanbal]
+tag: [Cremas, Yanbal, Sangolquí, Valle de los chillos, Selva Alegre]
 ---
+### TOTALIST
+#### CREMA MULTIACCIÓN ANTI ARRUGAS  | 100 g  | yanbal  |
+| Precio: $  8,50 | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aNTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][JALEA]
+
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_300/v1610990354/Blog-Betty/cremas/crema-total-miel_zbvgrh.jpg)
+
+***
 ### TOTALIST
 #### CREMA MULTIACCIÓN ACLARANTE  | 100 g  | yanbal  |
 | Precio: $  8,50 | <b style='color:green'> stock </b>
@@ -16,7 +27,18 @@ tag: [Cremas, Yanbal]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-nacar.jpg)
 
+* * *
+### GAIA
+#### LOCIÓN PERFUMADA | 100 g  | yanbal  |
+| Precio: $ 7,00  | <b style='color:green'> stock </b>
 
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[GAIA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][GAIA]
+
+![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
+
+***
 ### CCORI
 #### LOCIÓN PERFUMADA  | 100 g  | yanbal  |
 | Precio: $  7,00 | <b style='color:green'> stock </b>
@@ -37,15 +59,4 @@ tag: [Cremas, Yanbal]
  [![logo de yanbal][logo]][SEDA]
 
 ![perfumes]({{ site.baseurl }}/assets/img/crem-seda.jpg)
-* * *
-### GAIA
-#### LOCIÓN PERFUMADA | 100 g  | yanbal  |
-| Precio: $ 7,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[GAIA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][GAIA]
-
-![perfumes]({{ site.baseurl }}/assets/img/crem-gaia.jpg)
-
 
