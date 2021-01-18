@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cremas Yanbal en Sangolquí"
-img: https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg
+img: portada-crema.png
 date: 2020-01-18 12:42:00 +0300
 description: Productos yanbal en stock, Valle de los Chillos - Ecuador
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
