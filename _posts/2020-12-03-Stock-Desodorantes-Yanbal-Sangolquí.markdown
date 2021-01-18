@@ -41,7 +41,9 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
  [![logo de yanbal][logo]][CLINICAL]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_263,w_115/v1611006460/Blog-Betty/Desodorante/des-clinical-min_khlncf.png)
+
 * * *
+
 ### BRISA FLORAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $  3,00   | <b style='color:green'> stock </b> 
