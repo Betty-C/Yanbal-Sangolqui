@@ -4,19 +4,9 @@ title: "Desodorantes"
 img: portada-desodorantes.png
 date: 2020-12-03 12:52:00 +0300
 description: Desodorantes $3 y $4
-tag: [Desodorante, Perfume, effective, Yanbal]
+tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
 
-### ORIGINAL
-#### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $ 3,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ORIGINAL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ORIGINAL%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][ORIGINAL]
-
-![perfumes]({{ site.baseurl }}/assets/img/des-original.jpg)
-* * *
 ### ACLARANTE 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
@@ -25,19 +15,19 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 [ACLARANTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ACLARANTE]
 
-![perfumes]({{ site.baseurl }}/assets/img/des-aclarante.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_268,w_123/v1611006314/Blog-Betty/Desodorante/des-aclarante-min_rifxwa.png)
 
-![perfumes]({{ site.baseurl }}/assets/img/des-aclarante2.jpg)
 * * *
-### SIN AROMA 
+
+### CLINICAL 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | y## collapsible markdown?anbal |
 |Precio: $ 3,00   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SINAROMA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20SIN%20AROMA%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][SINAROMA]
+[CLINICAL]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20CLINICAL%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][CLINICAL]
 
-![perfumes]({{ site.baseurl }}/assets/img/des-sinaroma.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_263,w_115/v1611006460/Blog-Betty/Desodorante/des-clinical-min_khlncf.png)
 * * *
 ### BRISA FLORAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
@@ -47,17 +37,28 @@ tag: [Desodorante, Perfume, effective, Yanbal]
 [BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-## collapsible markdown?%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][BRISA]
 
-![perfumes]({{ site.baseurl }}/assets/img/des-floral.jpg)
-
-![perfumes]({{ site.baseurl }}/assets/img/des-floral2.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_284,w_115/v1611005845/Blog-Betty/Desodorante/des-floral2_vly86u.png)
 
 * * *
+
 ### ZENTRO
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $  4,00  | <b style='color:green'> stock </b>
+|Precio: $  3,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [ZENTRO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ZENTRO]
 
-![perfumes]({{ site.baseurl }}/assets/img/des-zentro.jpg)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_271,w_105/v1611005845/Blog-Betty/Desodorante/des-zentro_cby2op.jpg)
+
+* * *
+
+### OHM
+#### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
+|Precio: $  3,90  | <b style='color:green'> stock </b>
+
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[OHM]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][OHM]
+
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_310,w_152/v1611005845/Blog-Betty/Desodorante/des-arom_bltskd.jpg)
