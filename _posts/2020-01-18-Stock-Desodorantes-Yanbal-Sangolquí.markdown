@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Desodorantes"
+title: "Desodorantes Yanbal Sangolquí"
 img: portada-desodorantes.png
 date: 2020-01-18 12:52:00 +0300
 description: Desodorantes $3 y $4
-tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre]
+tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre, stock]
 ---
 
 
