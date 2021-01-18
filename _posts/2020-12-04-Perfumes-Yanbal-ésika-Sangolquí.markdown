@@ -27,7 +27,7 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [INFINITY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20INFINITY%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][INFINITY]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_311,w_288/v1611001944/Blog-Betty/Perfumes/perfume-unique-min_q038cd.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_270/v1611001944/Blog-Betty/Perfumes/perfume-unique-min_q038cd.png)
 
 * * *
 
@@ -51,7 +51,7 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [ILUMINAS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20ILUMINAS%20-%20%C3%A9sika "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ILUMINAS]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_465,w_182/v1611001941/Blog-Betty/Perfumes/perfume-esika-min_u6zn8e.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_1800/v1611001941/Blog-Betty/Perfumes/perfume-esika-min_u6zn8e.png)
 
 * * *
 
@@ -62,6 +62,8 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [MUSK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20SECRET%20MUSK%20-%20%C3%A9sika "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][MUSK]
+ 
+ ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_325,w_325/v1611001939/Blog-Betty/Perfumes/perfume-musk-min_ucslgb.png)
 
 * * *
 
@@ -85,7 +87,7 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [FOCCO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][FOCCO]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_399,w_246/v1611001941/Blog-Betty/Perfumes/perfume-focco-min_u3sdze.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_370,w_236/v1611001941/Blog-Betty/Perfumes/perfume-focco-min_u3sdze.png)
 
 * * *
 
@@ -122,10 +124,6 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
  [![logo de yanbal][logo]][OHM4]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_345,w_182/v1611001938/Blog-Betty/Perfumes/perfume-ohm-min_jxtpik.png)
-
-
-
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_371,w_319/v1611001939/Blog-Betty/Perfumes/perfume-musk-min_ucslgb.png)
 
 Sangolquí-Ecuador
 
