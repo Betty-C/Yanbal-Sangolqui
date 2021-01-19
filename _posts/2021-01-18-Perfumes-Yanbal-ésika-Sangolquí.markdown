@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Perfumes Sangolquí"
+title: "Perfumes Yanbal Sangolquí"
 img: portada-perfumes.png 
 date: 2021-01-18 12:55:00 +0300
 description: Perfumes en stock yanbal, ésika. Valle de los Chillos, Sangolquí Ecuador
-tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
+tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
 
 ### GAIA
@@ -12,7 +12,7 @@ tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 |Precio: $  32,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[GAIA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20GAIA%20INFINITY%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[GAIA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][GAIA]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_382,w_126/v1611002370/Blog-Betty/Perfumes/perfume-gaia-min_omgmsl.png)
