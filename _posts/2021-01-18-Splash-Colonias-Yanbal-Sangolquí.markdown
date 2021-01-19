@@ -2,7 +2,7 @@
 layout: post
 title: "Splash - Colonias Yanbal Sangolquí"
 img: portada-splash.png # Add image post (optional)
-date: 2020-01-18 12:55:00 +0300
+date: 2021-01-18 12:55:00 +0300
 description: Splash, colonias Sangolquí - Ecuador
 tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 ---
@@ -28,7 +28,8 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 [![logo de yanbal][logo]][ZITRIKA]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999297/Blog-Betty/splash/splash-zitrika_v3a1s8.png)
-351
+
+
 * * *
 
 ### PITAHAYA
