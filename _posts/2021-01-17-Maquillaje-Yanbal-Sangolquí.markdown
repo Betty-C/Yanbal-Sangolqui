@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Maquillaje"
+title: "Maquillaje Yanbal Sangolquí"
 img: portada-maquillaje.jpg # Add image post (optional)
-date: 2020-12-03
+date: 2021-01-17
 description: Sombras, labiales, rimel ...
-tag: [Rimel,Labial,Sombras]
+tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 sitemap :
   changefreq : weekly
   priority : 1.0
