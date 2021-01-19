@@ -2,7 +2,7 @@
 layout: post
 title: "Mecánica artesanal"
 img: mecánica.png 
-date: 2021-01-17 12:50:00 +0300
+date: 2021-01-17 12:40:00 +0300
 description: Sitio destinado a mostrar productos artesanales
 tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
