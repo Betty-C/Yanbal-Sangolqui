@@ -24,7 +24,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 |Precio: $  20,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[INFINITY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20INFINITY%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[INFINITY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20INFINITY%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][INFINITY]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_270/v1611001944/Blog-Betty/Perfumes/perfume-unique-min_q038cd.png)
@@ -36,7 +36,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 |Precio: $  20,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[VANIDAD]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20DULCE%20VANIDAD%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[VANIDAD]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20DULCE%20VANIDAD%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][VANIDAD]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_200/v1611001940/Blog-Betty/Perfumes/perfume-vanidad-min_ca489o.png)
@@ -84,7 +84,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 | Precio: $ 30,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[FOCCO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[FOCCO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20FOCCO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][FOCCO]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_370,w_236/v1611001941/Blog-Betty/Perfumes/perfume-focco-min_u3sdze.png)
