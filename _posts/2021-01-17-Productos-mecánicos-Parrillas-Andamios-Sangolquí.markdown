@@ -7,7 +7,7 @@ description: Sitio destinado a mostrar productos artesanales, venta y alquiler d
 tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
 
-[![logo de yanbal](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_766,w_1365/v1611074994/Blog-Betty/Logos/mecanica_tm7ls4.png)
+[![logo de yanbal](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_600/v1611074994/Blog-Betty/Logos/mecanica_tm7ls4.png)
 
 [logo2]: https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_158,w_305/v1611012008/Blog-Betty/Logos/sitio_gzoygz.jpg
 [mecanica]: https://jorge-onofa.github.io/karna/ "clic para visitar MECÁNICA"
