@@ -101,5 +101,5 @@ sitemap :
 [CUSHION]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Base%20Cushion%20Antiedad%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CUSHION]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_331,w_375/v1611071780/Blog-Betty/Maquillaje/maq-cushion_jlo4ls.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_290,w_300/v1611071780/Blog-Betty/Maquillaje/maq-cushion_jlo4ls.png)
 
