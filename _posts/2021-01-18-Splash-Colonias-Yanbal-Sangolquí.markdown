@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Splash - Colonias Yanbal Sangolquí"
-img: portada-splash.png # Add image post (optional)
+img: portada-splash.png 
 date: 2021-01-18 12:55:00 +0300
-description: Splash, colonias Sangolquí - Ecuador
+description: Splash, colonias - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 ---
 
