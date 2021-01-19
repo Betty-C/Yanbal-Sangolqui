@@ -77,7 +77,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 [SEXY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20SEXY%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][SEXY]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_350,w_150/v1610999296/Blog-Betty/splash/splash-sexy_eah1im.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999296/Blog-Betty/splash/splash-sexy_eah1im.png)
 
 
 
