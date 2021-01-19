@@ -3,7 +3,7 @@ layout: post
 title: "Protector solar Yanbal Sangolquí"
 img: portada-protectores.png 
 date: 2021-01-18 12:50:00 +0300
-description: Protector solar Matificante, en crema y para niños
+description: Protector solar - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
 ### PROTECTOR MATIFICANTE
