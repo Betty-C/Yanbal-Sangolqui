@@ -12,8 +12,8 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aNTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][JALEA]
+[ARANADNOS]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20BioMilk%20Arándanos%20-%20yanbal "clic para abrir chat de whatsapp"
+ [![logo de yanbal][logo]][ARANADNOS]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_365,w_136/v1611012942/Blog-Betty/cremas/creama-mora-min_kvjotl.png)
 
