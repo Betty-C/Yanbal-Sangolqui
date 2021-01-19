@@ -2,7 +2,7 @@
 layout: post
 title: "Productos de Higene personal"
 img: portada-higiene.png 
-date: 2020-12-03 12:52:00 +0300
+date: 2021-01-17 12:52:00 +0300
 description: Shampoo, gel sanitizante, gel despues de afeitar
 tag: [Shampoo, gel sanitizante, gel despues de afeitar, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
