@@ -9,7 +9,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 
 ### BIO MILK
 #### CREMA HIDRATANTE MORA ARÁNDANO  | 750 ml | yanbal  |
-| Precio: $  8,50 | <b style='color:green'> stock </b>
+| Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aNTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
