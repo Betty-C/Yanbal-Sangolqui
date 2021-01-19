@@ -3,8 +3,8 @@ layout: post
 title: "Joyería Yanbal Sangolquí"
 img: portada-joyeria.png 
 date: 2021-01-17 12:51:00 +0300
-description: Aretes, pulseras,joyería yanbal Selva Alegre - Sangolquí
-tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
+description: Aretes, pulseras, joyería - yanbal - Selva Alegre - Sangolquí
+tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 ---
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
