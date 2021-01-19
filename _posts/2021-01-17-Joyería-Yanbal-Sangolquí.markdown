@@ -38,7 +38,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 [TROPICALIA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][TROPICALIA]
 
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_181,w_400/v1611095657/Blog-Betty/Joyeria/joy-tropicalia1_kp4247.png />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_181,w_400/v1611095657/Blog-Betty/Joyeria/joy-tropicalia1_kp4247.png" />
 
 * * *
 
