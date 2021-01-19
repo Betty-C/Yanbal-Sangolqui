@@ -24,7 +24,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 | Precio: $ 9,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ZITRIKA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
+[ZITRIKA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Zitrika%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][ZITRIKA]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999297/Blog-Betty/splash/splash-zitrika_v3a1s8.png)
