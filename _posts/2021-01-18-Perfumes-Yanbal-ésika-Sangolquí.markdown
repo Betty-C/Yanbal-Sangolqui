@@ -2,7 +2,7 @@
 layout: post
 title: "Perfumes Sangolquí"
 img: portada-perfumes.png 
-date: 2020-01-18 12:55:00 +0300
+date: 2021-01-18 12:55:00 +0300
 description: Perfumes en stock yanbal, ésika. Valle de los Chillos, Sangolquí Ecuador
 tag: [Perfumes, yanval, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
