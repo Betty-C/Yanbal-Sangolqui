@@ -90,7 +90,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
  [![logo de yanbal][logo]][DIAMANTI]
 
 
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_411,w_338/v1611096045/Blog-Betty/Joyeria/joy-star_vkvujl.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_390,w_320/v1611096045/Blog-Betty/Joyeria/joy-star_vkvujl.png" />
 
 * * *
 
@@ -104,7 +104,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
  [![logo de yanbal][logo]][MARIPOSI]
 
 
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_378,w_400/v1611095768/Blog-Betty/Joyeria/joy-femmeMariposi_zwcwed.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_350,w_360/v1611095768/Blog-Betty/Joyeria/joy-femmeMariposi_zwcwed.png" />
 
 * * *
 
@@ -118,4 +118,4 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
  [![logo de yanbal][logo]][DYLAN]
 
 
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_184,w_400/v1611095445/Blog-Betty/Joyeria/joy-dylan_znz2il.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_190,w_400/v1611095445/Blog-Betty/Joyeria/joy-dylan_znz2il.png" />
