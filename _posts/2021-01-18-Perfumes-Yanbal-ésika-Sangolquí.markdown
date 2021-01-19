@@ -39,7 +39,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [VANIDAD]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20DULCE%20VANIDAD%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][VANIDAD]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_238,w_142/v1611001940/Blog-Betty/Perfumes/perfume-vanidad-min_ca489o.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_200/v1611001940/Blog-Betty/Perfumes/perfume-vanidad-min_ca489o.png)
 
 * * *
 
@@ -51,7 +51,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 [ILUMINAS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20ILUMINAS%20-%20%C3%A9sika "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ILUMINAS]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_1800/v1611001941/Blog-Betty/Perfumes/perfume-esika-min_u6zn8e.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_200/v1611001941/Blog-Betty/Perfumes/perfume-esika-min_u6zn8e.png)
 
 * * *
 
