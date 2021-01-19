@@ -11,7 +11,7 @@ tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 | Precio: $ 15,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[MATIFICANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Protector%20solar%20MATIFICANTportada-joyeria.pngE%20SPF%20100%20-%20yanbal "clic para abrir chat de whatsapp"
+[MATIFICANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Protector%20solar%20MATIFICANTE%20SPF%20100%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][MATIFICANTE]
 
 ![protector](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_281,w_159/v1611008456/Blog-Betty/Protector/pro-matificante-min_wdfc5a.png)
