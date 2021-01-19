@@ -2,7 +2,7 @@
 layout: post
 title: "Loción, crema Yanbal Sangolquí"
 img: portada-crema.png
-date: 2021-01-18 12:42:00 +0300
+date: 2021-01-18 12:51:00 +0300
 description: Productos yanbal en stock, Valle de los Chillos - Ecuador
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
