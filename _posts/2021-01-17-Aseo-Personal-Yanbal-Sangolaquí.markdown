@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Productos de Higene personal"
+title: "Productos de Higene personal Yanbal Sangolquí"
 img: portada-higiene.png 
 date: 2021-01-17 12:52:00 +0300
 description: Shampoo, gel sanitizante, gel despues de afeitar
