@@ -2,7 +2,7 @@
 layout: post
 title: "Joyería Yanbal Sangolquí"
 img: portada-joyeria.png 
-date: 2020-01-21 12:51:00 +0300
+date: 2021-01-17 12:51:00 +0300
 description: Aretes, pulseras... 
 tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 ---
