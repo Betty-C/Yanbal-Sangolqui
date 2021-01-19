@@ -14,7 +14,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 [LOVE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LOVE%20DORE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][LOVE]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_193,w_399/v1611095766/Blog-Betty/Joyeria/joy-dore_ihjrjs.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_180,w_370/v1611095766/Blog-Betty/Joyeria/joy-dore_ihjrjs.png)
 
 * * *
 
@@ -26,7 +26,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 [YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20YACINE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][YACINE]
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_139,w_300/v1611095451/Blog-Betty/Joyeria/jpy-yacine_vzzcql.png)
+![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_180,w_300/v1611095451/Blog-Betty/Joyeria/jpy-yacine_vzzcql.png)
 
 * * *
 
@@ -38,7 +38,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 [TROPICALIA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][TROPICALIA]
 
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_181,w_400/v1611095657/Blog-Betty/Joyeria/joy-tropicalia1_kp4247.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_181,w_375/v1611095657/Blog-Betty/Joyeria/joy-tropicalia1_kp4247.png" />
 
 * * *
 
