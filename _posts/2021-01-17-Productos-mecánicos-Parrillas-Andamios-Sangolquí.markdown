@@ -9,7 +9,7 @@ tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket, Sango
 
 
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_225,w_310/v1611075932/Blog-Betty/Logos/mecanica2-min_wsctsh.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_250,w_330/v1611075932/Blog-Betty/Logos/mecanica2-min_wsctsh.png" />
 </center>
 
 <br>
@@ -20,6 +20,6 @@ tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket, Sango
 
 
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_210,w_310/v1611075916/Blog-Betty/Logos/mecanica1-min_w33hpd.png" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_250,w_330/v1611075916/Blog-Betty/Logos/mecanica1-min_w33hpd.png" />
 </center>
 
