@@ -7,7 +7,7 @@ description: Sitio destinado a mostrar productos artesanales, venta y alquiler d
 tag: [Andamios, puertas, parrillas, dispensador, sargentos, aro de basket, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
 
-![mecanica](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_210,w_310/v1611075932/Blog-Betty/Logos/mecanica2-min_wsctsh.png)
+![mecanica](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_225,w_310/v1611075932/Blog-Betty/Logos/mecanica2-min_wsctsh.png)
 
 
 
