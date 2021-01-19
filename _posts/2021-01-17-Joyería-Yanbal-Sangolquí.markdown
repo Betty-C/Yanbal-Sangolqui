@@ -110,7 +110,7 @@ tag: [Aretes, cadenas, Valle de los Chillos, yanbal, Sangolquí]
 
 ### SET 3 COLLARES
 #### DYLAN | yanbal  |
-| Precio: $  20,00 | <b style='color:green'> stock </b>
+| Precio: $  30,00 | <b style='color:green'> stock </b>
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
