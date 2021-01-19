@@ -3,11 +3,8 @@ layout: post
 title: "Maquillaje Yanbal Sangolquí"
 img: portada-maquillaje.png
 date: 2021-01-17
-description: Sombras, labiales, rimel, stock yanbal Selva Alegre - Sangolquí
+description: Sombras, labiales, rimel, stock - yanbal - Selva Alegre - Sangolquí
 tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
-sitemap :
-  changefreq : weekly
-  priority : 1.0
 ---
 ### SEXTETO DE SOMBRAS
 #### EN POLVO COMPACTO | 5,8 g | yanbal  |
@@ -44,6 +41,7 @@ sitemap :
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_60,w_281/v1611067591/Blog-Betty/Maquillaje/maq-rimel3_x1uqqx.png)
 
 * * *
+
 ### DELINEADOR
 #### NEGRO DE OJOS  | 7 g | yanbal  |
 | Precio: $  6,50 | <b style='color:green'> stock </b>
