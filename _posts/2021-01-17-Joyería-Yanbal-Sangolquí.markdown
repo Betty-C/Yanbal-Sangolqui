@@ -8,7 +8,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 ---
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $  20,00 | <b style='color:green'> stock </b>
+| Precio: $  18,49 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [LOVE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LOVE%20DORE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -20,7 +20,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### ARETES
 #### YACINE METAL BAÑADO EN ORO | yanbal  |
-| Precio: $ 25  | <b style='color:green'> stock </b>
+| Precio: $ 23,49  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [YACINE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20YACINE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -32,7 +32,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### PULSERA
 #### TROPICALIA | yanbal  |
-| Precio: $ 25  | <b style='color:green'> stock </b>
+| Precio: $ 23,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [TROPICALIA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%20%20Pulsera%20tropicalia%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -44,7 +44,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### ARETES
 #### MIRELLE METAL LOVE BAÑADO EN ORO   | yanbal  |
-| Precio: $ 17,00   | <b style='color:green'> stock </b>
+| Precio: $ 16,90   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [MIRELLE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20MIRELLE%20METAL%20LOVE%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -57,7 +57,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### ARETES
 #### SILENNE METAL BAÑADO EN ORO  | yanbal  |
-| Precio: $ 20,00  | <b style='color:green'> stock </b>
+| Precio: $ 19,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [SILENNE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20SILENNE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -69,7 +69,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### ARETES
 #### METAL BAÑADO EN ORO  ANELISSE | yanbal  |
-| Precio: $ 22,00  | <b style='color:green'> stock </b>
+| Precio: $ 21,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [BAÑADO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20%20METAL%20BA%C3%91ADO%20EN%20ORO%20ANELISSE%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -94,9 +94,9 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 * * *
 
-### COLLAR
+### COLLAR LARGO
 #### FEMME MAIPOSI| yanbal  |
-| Precio: $  10,00 | <b style='color:green'> stock </b>
+| Precio: $  9,90 | <b style='color:green'> stock </b>
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
@@ -110,7 +110,7 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 
 ### SET 3 COLLARES
 #### DYLAN | yanbal  |
-| Precio: $  30,00 | <b style='color:green'> stock </b>
+| Precio: $  28,90 o 9,90 c/u | <b style='color:green'> stock </b>
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
