@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Splash - Colonias Yanbal Sangolquí"
+title: "Splash - Colonias Yanbal Sangolquí - Valle de los Chillos"
 img: portada-splash.png 
 date: 2021-01-18 12:55:00 +0300
 description: Splash, colonias - stock - yanbal - Selva Alegre - Sangolquí
