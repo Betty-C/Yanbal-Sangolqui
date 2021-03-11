@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perfumes Yanbal Sangolquí - Valle de los Chillos"
+title: "Perfumes Yanbal Sangolquí"
 img: portada-perfumes.png 
 date: 2021-01-18 12:55:00 +0300
 description: Perfumes yanbal, ésika. Stock - yanbal - Selva Alegre - Sangolquí
