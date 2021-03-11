@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joyería Yanbal Sangolquí"
+title: "Joyería Yanbal Sangolquí - Valle de los Chillos"
 img: portada-joyeria.png 
 date: 2021-03-10 12:51:00 +0300
 description: Aretes, pulseras, joyería - yanbal - Selva Alegre - Sangolquí
