@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joyería Yanbal Sangolquí - Valle de los Chillos"
+title: "Joyería Yanbal Sangolquí"
 img: portada-joyeria.png 
 date: 2021-03-10 12:51:00 +0300
 description: Aretes, pulseras, joyería - yanbal - Selva Alegre - Sangolquí
 tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 ---
+Sangolquí - Valle de los Chillos
+
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
 | Precio: $  18,49 | <b style='color:green'> stock </b>
