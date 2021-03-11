@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protector solar Yanbal Sangolquí"
+title: "Protector solar Yanbal Sangolquí - Valle de los chillos"
 img: portada-protectores.png 
 date: 2021-01-18 12:50:00 +0300
 description: Protector solar - stock - yanbal - Selva Alegre - Sangolquí
@@ -8,7 +8,7 @@ tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
 ### PROTECTOR MATIFICANTE
 ####  SIN BRILLO - ACABADO INVISIBLE | 80 g  | yanbal  |
-| Precio: $ 15,00  | <b style='color:green'> stock </b>
+| Precio: $ 14,49  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [MATIFICANTE]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Protector%20solar%20MATIFICANTE%20SPF%20100%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -20,7 +20,7 @@ tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### kIDS
 #### SPF 70 | 80 g  | yanbal  |
-| Precio: $  15,00 | <b style='color:green'> stock </b>
+| Precio: $  13,90 | <b style='color:green'> stock </b>
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
@@ -33,7 +33,7 @@ tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### PROTECTOR SOLAR
 #### SPF 100 | 80 g  | yanbal  |
-| Precio: $  15,00  | <b style='color:green'> stock </b>
+| Precio: $  13,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [SPF]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Protector%20solar%20%20SPF%20100%20-%20yanbal  "clic para abrir chat de whatsapp"
