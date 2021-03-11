@@ -21,7 +21,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 
 ### TOTALIST
 #### CREMA MULTIACCIÓN ANTI ARRUGAS  | 100 g  | yanbal  |
-| Precio: $  8,50 | <b style='color:green'> stock </b>
+| Precio: $  8,49 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20ANTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -32,7 +32,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ***
 ### TOTALIST
 #### CREMA MULTIACCIÓN ACLARANTE  | 100 g  | yanbal  |
-| Precio: $  8,50 | <b style='color:green'> stock </b>
+| Precio: $  8,49 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [NACAR]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aclarante%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -43,7 +43,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 * * *
 ### GAIA
 #### LOCIÓN PERFUMADA | 100 g  | yanbal  |
-| Precio: $ 7,00  | <b style='color:green'> stock </b>
+| Precio: $ 6,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [GAIA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -54,7 +54,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ***
 ### CCORI
 #### LOCIÓN PERFUMADA  | 100 g  | yanbal  |
-| Precio: $  7,00 | <b style='color:green'> stock </b>
+| Precio: $  6,90 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [CCORI]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20CCORI%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -65,7 +65,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 * * *
 ### SEDA
 #### LOCIÓN PERFUMADA | 210 g  | yanbal |
-| Precio: $  10,00 | <b style='color:green'> stock </b>
+| Precio: $  8,90 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [SEDA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20SEDA%20-%20yanbal "clic para abrir chat de whatsapp"
