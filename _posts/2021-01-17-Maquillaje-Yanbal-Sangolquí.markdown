@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maquillaje Yanbal Sangolquí"
+title: "Maquillaje Yanbal Sangolquí - Valle de los Chillos"
 img: portada-maquillaje.png
 date: 2021-01-17
 description: Sombras, labiales, rimel, stock - yanbal - Selva Alegre - Sangolquí
