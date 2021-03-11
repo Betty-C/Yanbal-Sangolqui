@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Protector solar Yanbal Sangolquí - Valle de los Chillos"
+title: "Protector solar Yanbal Sangolquí"
 img: portada-protectores.png 
 date: 2021-01-18 12:50:00 +0300
 description: Protector solar - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
+Sangolquí - Valle de los Chillos
+
 ### PROTECTOR MATIFICANTE
 ####  SIN BRILLO - ACABADO INVISIBLE | 80 g  | yanbal  |
 | Precio: $ 14,49  | <b style='color:green'> stock </b>
