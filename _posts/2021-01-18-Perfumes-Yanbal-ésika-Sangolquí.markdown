@@ -93,7 +93,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### ZENTRO  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
-| Precio: $ 29,90  | <b style='color:green'> stock </b>
+| Precio: $ 29,49  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [ZENTRO2]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -105,7 +105,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### ZENTRO BLACK  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
-|Precio: $  35,00  | <b style='color:green'> stock </b>
+|Precio: $  34,49  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [BLACK2]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20BLACK%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
