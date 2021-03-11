@@ -8,7 +8,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 ---
 ### SEXTETO DE SOMBRAS
 #### EN POLVO COMPACTO | 5,8 g | yanbal  |
-| Precio: $ 15,00  | <b style='color:green'> stock </b>
+| Precio: $ 13,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [SEXTETO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -56,7 +56,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 
 ### LABIAL
 #### PINK CORAL  | 4 g | yanbal  |
-| Precio: $ 5,00  | <b style='color:green'> stock </b>
+| Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [PINK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -68,7 +68,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 
 ### LABIAL
 #### ROJO FASHION  | 4 g | yanbal  |
-| Precio: $ 5,00  | <b style='color:green'> stock </b>
+| Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [ROJO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
@@ -80,7 +80,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 
 ### LABIAL
 #### MALVA SPIRIT  | 4 g | yanbal  |
-| Precio: $ 5,00  | <b style='color:green'> stock </b>
+| Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [MALVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
