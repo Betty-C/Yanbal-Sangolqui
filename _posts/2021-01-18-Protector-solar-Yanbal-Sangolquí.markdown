@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protector solar Yanbal Sangolquí - Valle de los chillos"
+title: "Protector solar Yanbal Sangolquí - Valle de los Chillos"
 img: portada-protectores.png 
 date: 2021-01-18 12:50:00 +0300
 description: Protector solar - stock - yanbal - Selva Alegre - Sangolquí
