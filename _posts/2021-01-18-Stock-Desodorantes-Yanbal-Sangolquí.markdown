@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Desodorantes Yanbal Sangolquí - Valle de los Chillos "
+title: "Desodorantes Yanbal Sangolquí"
 img: portada-desodorantes.png
 date: 2021-01-18 12:52:00 +0300
 description: Desodorantes - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre, stock]
 ---
+Sangolquí - Valle de los Chillos
 
 ### GAIA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
