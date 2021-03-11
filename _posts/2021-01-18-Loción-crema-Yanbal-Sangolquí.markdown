@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Loción, crema Yanbal Sangolquí - Valle de los Chillos"
+title: "Loción, crema Yanbal Sangolquí"
 img: portada-crema.png
 date: 2021-01-18 12:51:00 +0300
 description: Productos yanbal en stock - yanbal - Selva Alegre - Sangolquír
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
+Sangolquí - Valle de los Chillos
 
 ### BIO MILK
 #### CREMA HIDRATANTE MORA ARÁNDANO  | 750 ml | yanbal  |
