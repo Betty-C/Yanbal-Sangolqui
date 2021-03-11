@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Desodorantes Yanbal Sangolquí"
+title: "Desodorantes Yanbal Sangolquí - Valle de los Chillos "
 img: portada-desodorantes.png
 date: 2021-01-18 12:52:00 +0300
 description: Desodorantes - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre, stock]
 ---
-
 
 ### GAIA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
@@ -22,7 +21,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 
 ### ACLARANTE 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $ 3,00   | <b style='color:green'> stock </b>
+|Precio: $ 2,99   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [ACLARANTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -34,7 +33,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 
 ### CLINICAL 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $ 4,50   | <b style='color:green'> stock </b>
+|Precio: $ 4,49   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [CLINICAL]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20CLINICAL%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -46,7 +45,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 
 ### BRISA FLORAL
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
-|Precio: $  3,00   | <b style='color:green'> stock </b> 
+|Precio: $  2,99   | <b style='color:green'> stock </b> 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
