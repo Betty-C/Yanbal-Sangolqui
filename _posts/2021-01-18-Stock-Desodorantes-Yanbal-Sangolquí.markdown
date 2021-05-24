@@ -6,7 +6,7 @@ date: 2021-01-18 12:52:00 +0300
 description: Desodorantes - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí, Selva Alegre, stock]
 ---
-Sangolquí - Valle de los Chillos
+ECUADOR - Valle de los Chillos - Sangolquí
 
 ### GAIA 
 #### DESODORANTE ANTITRANSPIRANTE  | 50 g | yanbal |
