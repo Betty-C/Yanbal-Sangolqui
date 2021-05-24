@@ -3,10 +3,10 @@ layout: post
 title: "Maquillaje Yanbal Sangolquí"
 img: portada-maquillaje.png
 date: 2021-01-17
-description: Sombras, labiales, rimel, stock - yanbal - Selva Alegre - Sangolquí
+description: Ecuador - Sombras, labiales, rimel, stock - yanbal - Selva Alegre - Sangolquí
 tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 ---
-Sangolquí - Valle de los Chillos
+ ECUADOR - Valle de los Chillos - Sangolquí
 
 ### SEXTETO DE SOMBRAS
 #### EN POLVO COMPACTO | 5,8 g | yanbal  |
