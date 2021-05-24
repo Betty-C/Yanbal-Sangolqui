@@ -6,6 +6,7 @@ date: 2021-01-18 12:55:00 +0300
 description: Perfumes yanbal, ésika. Stock - yanbal - Selva Alegre - Sangolquí
 tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
+ECUADOR - Valle de los Chillos - Sangolquí
 
 ### GAIA
 #### PERFUME | 50 ml | yanbal  | 
