@@ -6,7 +6,7 @@ date: 2021-01-18 12:51:00 +0300
 description: Productos yanbal en stock - yanbal - Selva Alegre - Sangolquír
 tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 ---
-Sangolquí - Valle de los Chillos
+ECUADOR - Valle de los Chillos - Sangolquí
 
 ### BIO MILK
 #### CREMA HIDRATANTE MORA ARÁNDANO  | 750 ml | yanbal  |
