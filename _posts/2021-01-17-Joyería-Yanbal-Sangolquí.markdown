@@ -6,7 +6,7 @@ date: 2021-03-10 12:51:00 +0300
 description: Aretes, pulseras, joyería - yanbal - Selva Alegre - Sangolquí
 tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 ---
-Sangolquí - Valle de los Chillos
+ECUADOR - Valle de los Chillos - Sangolquí
 
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
