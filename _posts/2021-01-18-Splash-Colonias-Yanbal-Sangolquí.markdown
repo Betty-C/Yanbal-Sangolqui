@@ -6,7 +6,7 @@ date: 2021-01-18 12:55:00 +0300
 description: Splash, colonias - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 ---
-Sangolquí - Valle de los Chillos
+ECUADOR - Valle de los Chillos - Sangolquí
 
 ### LEsence 
 #### COLONIA ORQUÍDEAS EXÓTICAS | yanbal  |
