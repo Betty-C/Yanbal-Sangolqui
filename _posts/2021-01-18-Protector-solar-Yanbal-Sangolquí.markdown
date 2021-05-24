@@ -6,7 +6,7 @@ date: 2021-01-18 12:50:00 +0300
 description: Protector solar - stock - yanbal - Selva Alegre - Sangolquí
 tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 ---
-Sangolquí - Valle de los Chillos
+ ECUADOR - Valle de los Chillos - Sangolquí
 
 ### PROTECTOR MATIFICANTE
 ####  SIN BRILLO - ACABADO INVISIBLE | 80 g  | yanbal  |
