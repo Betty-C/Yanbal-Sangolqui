@@ -15,6 +15,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [SEXTETO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][SEXTETO]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_111,w_251/v1611067593/Blog-Betty/Maquillaje/maq-sombras_nviuze.png)
 
@@ -27,6 +29,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [EXTRA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20UNIQUECEIL%20EXTRA%20XL%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][EXTRA]
+ 
+ <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_318,w_138/v1611067589/Blog-Betty/Maquillaje/maq-rimel2_jp3ou7.jpg)
 
@@ -39,6 +43,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [RIMEL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][RIMEL]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_60,w_281/v1611067591/Blog-Betty/Maquillaje/maq-rimel3_x1uqqx.png)
 
@@ -51,6 +57,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [DEF]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20DELINEADOR%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][DEF]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_196,w_221/v1611072102/Blog-Betty/Maquillaje/maq-del-ultradef_i04gro.png)
 
@@ -63,6 +71,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [PINK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][PINK]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_269,w_147/v1611067589/Blog-Betty/Maquillaje/maq-pinkcoral_i5wisx.png)
 
@@ -75,6 +85,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [ROJO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ROJO]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_303,w_167/v1611067590/Blog-Betty/Maquillaje/maq-rojofashion_djqoyj.jpg)
 
@@ -87,6 +99,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [MALVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][MALVA]
+ 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_305,w_185/v1611067590/Blog-Betty/Maquillaje/maq-malvaspirit_tru3jn.png)
 
@@ -100,6 +114,8 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [CUSHION]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Base%20Cushion%20Antiedad%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CUSHION]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_290,w_300/v1611071780/Blog-Betty/Maquillaje/maq-cushion_jlo4ls.png)
 
