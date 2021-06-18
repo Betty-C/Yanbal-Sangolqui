@@ -13,8 +13,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 9,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ORQUIDEAS]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Orquideas%20-%20yanbal "clic para abrir chat de whatsapp"
+[ORQUIDEAS]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Orquideas%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][ORQUIDEAS]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999296/Blog-Betty/splash/splash-orquideas_qnhnfm.png)
 
@@ -25,8 +27,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 9,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ZITRIKA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Zitrika%20-%20yanbal "clic para abrir chat de whatsapp"
+[ZITRIKA]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Zitrika%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][ZITRIKA]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999297/Blog-Betty/splash/splash-zitrika_v3a1s8.png)
 
@@ -38,9 +42,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 9,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[PITAHAYA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
+[PITAHAYA]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Pitahaya%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][PITAHAYA]
 
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_280,w_200/v1610999595/Blog-Betty/splash/splash-pitahaya_bb5fyk.png)
 
@@ -51,8 +56,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[DULCE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20DULCE%20-%20yanbal "clic para abrir chat de whatsapp"
+[DULCE]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20DULCE%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][DULCE]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_350,w_110/v1610999391/Blog-Betty/splash/splash-dulce_xowbrb.png)
 
@@ -63,8 +70,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[FASHION]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20FASHION%20-%20yanbal "clic para abrir chat de whatsapp"
+[FASHION]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20FASHION%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][FASHION]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_110/v1610999392/Blog-Betty/splash/splash-fashionc_mbhnuu.png)
 
@@ -75,8 +84,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SEXY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20SEXY%20-%20yanbal "clic para abrir chat de whatsapp"
+[SEXY]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20SEXY%20-%20yanbal "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][SEXY]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_400,w_150/v1610999296/Blog-Betty/splash/splash-sexy_eah1im.png)
 
