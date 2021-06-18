@@ -16,6 +16,10 @@ ECUADOR - Valle de los Chillos - Sangolquí
 [LOVE]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Aretes%20LOVE%20DORE%20METAL%20BA%C3%91ADO%20EN%20ORO%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][LOVE]
  
+[logoface]:  https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,w_300/v1624038829/Blog-Betty/3_icqdc9.png
+[face]: https://www.facebook.com/Stock-Betty-100754135535413 "clic para abrir ir a facebook"
+[![logo de yanbal][logoface]][face]
+ 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_180,w_370/v1611095766/Blog-Betty/Joyeria/joy-dore_ihjrjs.png)
