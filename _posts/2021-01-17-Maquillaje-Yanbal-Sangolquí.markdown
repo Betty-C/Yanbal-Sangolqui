@@ -6,7 +6,13 @@ date: 2021-01-17
 description: Ecuador - Sombras, labiales, rimel, stock - yanbal - Selva Alegre - Sangolquí
 tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 ---
- ECUADOR - Valle de los Chillos - Sangolquí
+[logoface]:  https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,w_180/v1624038829/Blog-Betty/3_icqdc9.png
+[face]: https://www.facebook.com/Stock-Betty-100754135535413 "clic para abrir ir a facebook"
+[![logo de yanbal][logoface]][face]
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
+
+***
 
 ### SEXTETO DE SOMBRAS
 #### EN POLVO COMPACTO | 5,8 g | yanbal  |
