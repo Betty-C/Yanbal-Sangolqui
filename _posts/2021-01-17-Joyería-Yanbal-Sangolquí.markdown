@@ -9,7 +9,8 @@ tag: [Aretes, collar, Valle de los Chillos, yanbal, Sangolquí]
 [logoface]:  https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,w_200/v1624038829/Blog-Betty/3_icqdc9.png
 [face]: https://www.facebook.com/Stock-Betty-100754135535413 "clic para abrir ir a facebook"
 [![logo de yanbal][logoface]][face]
-ECUADOR - Valle de los Chillos - Sangolquí
+
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ### ARETES 
 #### LOVE DORE METAL BAÑADO EN ORO | yanbal  |
