@@ -67,4 +67,3 @@ tag: [Sol, Protector, Valle de los Chillos, Sangolquí, Selva Alegre]
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
 ![protector](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_246,w_239/v1611008456/Blog-Betty/Protector/pro-crema-min_goyand.png)
-
