@@ -19,7 +19,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ARANADNOS]: https://api.whatsapp.com/send?phone=593984572102&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20BioMilk%20Arándanos%20-%20yanbal "clic para abrir chat de whatsapp"
+[ARANADNOS]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20BioMilk%20Arándanos%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ARANADNOS]
  
  <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -33,7 +33,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  8,49 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[JALEA]: https://api.whatsapp.com/send?phone=593984572102&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20ANTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
+[JALEA]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20ANTIARRUGAS%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][JALEA]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -46,7 +46,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  8,49 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[NACAR]: https://api.whatsapp.com/send?phone=593984572102&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aclarante%20-%20yanbal "clic para abrir chat de whatsapp"
+[NACAR]: https://api.whatsapp.com/send?phone=593995957267&text=Hola!%20Me%20interesa%20este%20producto%20-%3E%20Crema%20multiacci%C3%B3n%20aclarante%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][NACAR]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -59,7 +59,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $ 6,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[GAIA]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+[GAIA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][GAIA]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -72,7 +72,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  6,90 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[CCORI]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20CCORI%20-%20yanbal "clic para abrir chat de whatsapp"
+[CCORI]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20CCORI%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CCORI]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -85,7 +85,7 @@ tag: [Cremas, Yanbal, Sangolquí, Valle de los Chillos, Selva Alegre]
 | Precio: $  8,90 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SEDA]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20SEDA%20-%20yanbal "clic para abrir chat de whatsapp"
+[SEDA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Loci%C3%B3n%20perfumada%20SEDA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][SEDA]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
