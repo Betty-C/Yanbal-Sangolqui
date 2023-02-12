@@ -19,7 +19,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $ 3,90   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[GAIA]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
+[GAIA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][GAIA]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -33,7 +33,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $ 2,99   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ACLARANTE]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
+[ACLARANTE]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ACLARANTE%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ACLARANTE]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -47,7 +47,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $ 4,49   | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[CLINICAL]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20CLINICAL%20-%20yanbal "clic para abrir chat de whatsapp"
+[CLINICAL]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20CLINICAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CLINICAL]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -61,7 +61,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $  2,99   | <b style='color:green'> stock </b> 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[BRISA]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+[BRISA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20BRISA%20FLORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][BRISA]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -75,7 +75,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $  3,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ZENTRO]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[ZENTRO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20ZENTRO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ZENTRO]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -89,7 +89,7 @@ tag: [Desodorante, Perfume, effective, Yanbal, Valle de los Chillos, Sangolquí,
 |Precio: $  3,90  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[OHM]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[OHM]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Desodorante%20antitranspirante%20OHM%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][OHM]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
