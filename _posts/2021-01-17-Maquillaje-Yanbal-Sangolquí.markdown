@@ -19,7 +19,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $ 13,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SEXTETO]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[SEXTETO]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20SEXTETO%20DE%20SOMBRAS%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][SEXTETO]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -33,7 +33,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $  10,00 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[EXTRA]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20UNIQUECEIL%20EXTRA%20XL%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[EXTRA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20UNIQUECEIL%20EXTRA%20XL%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][EXTRA]
  
  <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -47,7 +47,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $  6,50 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[RIMEL]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
+[RIMEL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][RIMEL]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -61,7 +61,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $  6,50 | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[DEF]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20DELINEADOR%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
+[DEF]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20DELINEADOR%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][DEF]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -75,7 +75,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[PINK]:  https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
+[PINK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20PINK%20CORAL%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][PINK]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -89,7 +89,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ROJO]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
+[ROJO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20%20ROJO%20FASHION%20%20-%20yanbal  "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][ROJO]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -103,7 +103,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $ 4,99  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[MALVA]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[MALVA]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Labial%20MALVA%20SPIRIT%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][MALVA]
  
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
@@ -118,7 +118,7 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 | Precio: $ 10,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[CUSHION]: https://api.whatsapp.com/send?phone=593984572102&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Base%20Cushion%20Antiedad%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
+[CUSHION]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Base%20Cushion%20Antiedad%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][CUSHION]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
