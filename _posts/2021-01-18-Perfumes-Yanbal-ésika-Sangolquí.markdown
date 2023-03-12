@@ -17,7 +17,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### GAIA
 #### PERFUME | 50 ml | yanbal  | 
-|Precio: $  31,49  | <b style='color:green'> stock </b>
+|Precio: $  35,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [GAIA]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20GAIA%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -101,7 +101,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ### FOCCO  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
-| Precio: $ 29,90  | <b style='color:green'> stock </b>
+| Precio: $ 24,00  | <b style='color:green'> stock </b>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [FOCCO]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20FOCCO%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
@@ -109,7 +109,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_370,w_236/v1611001941/Blog-Betty/Perfumes/perfume-focco-min_u3sdze.png)
+![perfumes](https://github.com/Betty-C/Imagenes/blob/c227a4c0c83c15c238676650790ba5c49c3f6d63/foccoV.jpg)
 
 * * *
 
@@ -125,19 +125,6 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_310,w_180/v1611001941/Blog-Betty/Perfumes/perfume-zentro-min_oi8o33.png)
 
-* * *
-
-### ZENTRO BLACK  
-#### COLOGNE FOR MEN  | 75 ml | yanbal  |
-|Precio: $  34,49  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[BLACK2]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20ZENTRO%20BLACK%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][BLACK2]
-
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
-
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_315,w_180/v1611001940/Blog-Betty/Perfumes/perfume-zentroblack-min_k0snfb.png)
 
 * * *
 
