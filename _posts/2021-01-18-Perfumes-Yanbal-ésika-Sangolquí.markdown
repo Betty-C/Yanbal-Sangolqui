@@ -109,7 +109,7 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
-![perfumes](https://github.com/Betty-C/Imagenes/blob/fa2813205abac7fd6f5c5563716321c9d40d4dd0/foccoVv.jpg)
+![perfumes](https://github.com/Betty-C/Imagenes/blob/main/foccoVv.jpg)
 
 * * *
 
