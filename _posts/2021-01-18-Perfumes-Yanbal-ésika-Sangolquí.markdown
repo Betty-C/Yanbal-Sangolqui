@@ -29,20 +29,6 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 * * *
 
-### UNIQUE WOMEN INFINITY
-#### EAU DE PARFUM  | 50 ml | yanbal  | 
-|Precio: $  19,49  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[INFINITY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20UNIQUE%20WOMEN%20INFINITY%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][INFINITY]
- 
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
-
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_300,w_270/v1611001944/Blog-Betty/Perfumes/perfume-unique-min_q038cd.png)
-
-* * *
-
 ### DULCE VANIDAD
 #### EAU DE PARFUM  | 50 ml | yanbal  |
 |Precio: $  20,00  | <b style='color:green'> stock </b>
