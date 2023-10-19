@@ -42,20 +42,6 @@ tag: [Rimel,Labial,Sombras,Valle de los Chillos, Sangolquí, Selva Alegre ]
 
 * * *
 
-### RIMEL
-#### NEGRO  | 7 g | yanbal  |
-| Precio: $  6,50 | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[RIMEL]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20RIMEL%20NEGRO%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][RIMEL]
- 
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
-
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_60,w_281/v1611067591/Blog-Betty/Maquillaje/maq-rimel3_x1uqqx.png)
-
-* * *
-
 ### DELINEADOR
 #### NEGRO DE OJOS  | 7 g | yanbal  |
 | Precio: $  6,50 | <b style='color:green'> stock </b>
