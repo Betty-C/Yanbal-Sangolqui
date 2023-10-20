@@ -57,34 +57,6 @@ tag: [Perfumes, yanbal, ésika, Valle de los Chillos, Sangolquí, Selva Alegre]
 
 * * *
 
-### SECRET MUSK
-#### EAU DE PARFUM/ COLONIA   | 30 ml | ésika |
-|Precio: $  16,49  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[MUSK]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20SECRET%20MUSK%20-%20%C3%A9sika "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][MUSK]
-
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
- 
- ![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_325,w_325/v1611001939/Blog-Betty/Perfumes/perfume-musk-min_ucslgb.png)
-
-* * *
-
-### XISS
-#### EAU DE TOILTTE | 110 ml | yanbal |
-|Precio: $  14,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[XISS]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Perfume%20XISS%20%20%20%20-%20yanbal "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][XISS]
-
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
-
-![perfumes](https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_320,w_135/v1611001939/Blog-Betty/Perfumes/perfume-xiss-min_tlnwyj.png)
-
-* * *
-
 ### FOCCO  
 #### COLOGNE FOR MEN  | 75 ml | yanbal  |
 | Precio: $ 24,00  | <b style='color:green'> stock </b>
