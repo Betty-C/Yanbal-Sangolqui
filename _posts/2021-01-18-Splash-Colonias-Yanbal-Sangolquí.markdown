@@ -16,11 +16,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 
 ### LEsence 
 #### COLONIA ORQUÍDEAS EXÓTICAS | yanbal  |
-| Precio: $ 9,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[ORQUIDEAS]: https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Colonia%20Orquideas%20-%20yanbal "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][ORQUIDEAS]
+| Precio: $ 9,00  | <b style='color:red'> agotado </b>
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
@@ -30,11 +26,7 @@ tag: [Yanbal, Splash, Sangolquí, Valle de los Chillos, Selva Alegre, stock]
 
 ### SOY SEXY
 #### SPRAY  |  200 ml  | yanbal  |
-| Precio: $ 10,00  | <b style='color:green'> stock </b>
-
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[SEXY]:  https://api.whatsapp.com/send?phone=593995957267&text=%C2%A1Hola!%20Me%20interesa%20este%20producto%20-%3E%20Spray%20soy%20SEXY%20-%20yanbal "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][SEXY]
+| Precio: $ 10,00  | <b style='color:red'> agotado </b>
 
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Valle de los Chillos - Pichincha - Ecuador 🇪🇨</p> 
 
